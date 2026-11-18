@@ -1,0 +1,22 @@
+# Dependencies & Virtual Environments
+node_modules/
+venv/
+.venv/
+env/
+__pycache__/
+
+# Build outputs & caches
+.next/
+dist/
+build/
+*.log
+
+# Environment variables & secrets
+.env
+.env.local
+.env.*.local
+
+# User uploads & OS files
+uploads/*
+!uploads/.gitkeep
+.DS_Store

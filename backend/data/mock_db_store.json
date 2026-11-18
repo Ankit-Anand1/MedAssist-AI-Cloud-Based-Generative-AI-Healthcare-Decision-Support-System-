@@ -1,0 +1,4670 @@
+{
+  "users": [
+    {
+      "email": "rajesh.kumar@email.com",
+      "name": "Rajesh Kumar",
+      "role": "patient",
+      "password_hash": "$2b$12$pdWy2L84VO6v7Gcu5qXdGuVJpCP4B8BAM6I0mpy1yYoPmDwB0Z5ty",
+      "_id": {
+        "$oid": "6ae7c5554756d8096e1024f8"
+      }
+    },
+    {
+      "email": "dr.priya@medcare.in",
+      "name": "Dr. Priya Sharma",
+      "role": "doctor",
+      "password_hash": "$2b$12$n3joibRxNrSFllGYIHhz0OqZKQYgW07j9vofsxnN6mInK7N6MvziW",
+      "_id": {
+        "$oid": "6ae7c5554756d8096e1024f9"
+      }
+    },
+    {
+      "email": "anita.desai@email.com",
+      "name": "Anita Desai",
+      "role": "patient",
+      "password_hash": "$2b$12$nyrf9mvUSzxd1d817xG2SeTcaqJ1a5wg7Ricc/bWJ4b5fq8AFTOKa",
+      "_id": {
+        "$oid": "6ae7c5564756d8096e1024fa"
+      }
+    },
+    {
+      "email": "suresh.patel@email.com",
+      "name": "Suresh Patel",
+      "role": "patient",
+      "password_hash": "$2b$12$bm3oHJ6eW5Yaz.2VTwOzZOt7IRUXFwYHF1Vgii/kTQ5nqHkgu7uRO",
+      "_id": {
+        "$oid": "6ae7c5564756d8096e1024fb"
+      }
+    },
+    {
+      "email": "meera.joshi@email.com",
+      "name": "Meera Joshi",
+      "role": "patient",
+      "password_hash": "$2b$12$iYDh8sf9x.xw5LCspLrHP.WGamDdqS31/C6/4H.gWQp8rMQBp3UV6",
+      "_id": {
+        "$oid": "6ae7c5574756d8096e1024fc"
+      }
+    },
+    {
+      "email": "amit.singh@email.com",
+      "name": "Amit Singh",
+      "role": "patient",
+      "password_hash": "$2b$12$5QnTa7k1FAYJVxf4Q8Jk6euRHvle.PaVyf0wdOByk2wIKYlqux9hu",
+      "_id": {
+        "$oid": "6ae7c5574756d8096e1024fd"
+      }
+    },
+    {
+      "email": "lakshmi.nair@email.com",
+      "name": "Lakshmi Nair",
+      "role": "patient",
+      "password_hash": "$2b$12$D.M0H.rbnPlQ90SV8PjJJeaDV.qLg0CW4Qo0CXBEyjLKrDtkNrQnK",
+      "_id": {
+        "$oid": "6ae7c5574756d8096e1024fe"
+      }
+    },
+    {
+      "email": "dr.amit@medcare.in",
+      "name": "Dr. Amit Kumar",
+      "role": "doctor",
+      "password_hash": "$2b$12$YVbDRZDSemO7x5j.9rocVuWK0t85Bc8UvQ/I1WfxBpUkSA6thkYPm",
+      "created_at": "2026-11-01T23:06:26.013217",
+      "_id": {
+        "$oid": "6ae7c5f24756d8096e102535"
+      }
+    },
+    {
+      "email": "abhimanyu@email.com",
+      "name": "Abhimanyu",
+      "role": "patient",
+      "password_hash": "$2b$12$AysE3WrX8jLCOp7BCG5nj.jwCFoigzo1/fGa6jHNahF9t6wm4hQYi",
+      "created_at": "2026-11-01T23:07:49.313709",
+      "_id": {
+        "$oid": "6ae7c6454756d8096e102537"
+      }
+    },
+    {
+      "email": "dr.anita@medcare.in",
+      "name": "Dr. Anita Desai",
+      "role": "doctor",
+      "password_hash": "$2b$12$SEhyXl9Mms.lk.MmJfy.uuWPgVtIQYvujQ7DnnucQl01SjjwbzWDy",
+      "created_at": "2026-11-02T13:18:24.783642",
+      "_id": {
+        "$oid": "6ae88da01a0cf01baafc1673"
+      }
+    },
+    {
+      "email": "chandan.kumar@email.com",
+      "name": "Chandan Kumar",
+      "role": "patient",
+      "password_hash": "$2b$12$M0DRbtU3g73aoBKqXNZA7Oi1twFkLUGRO5emyDxyqwU3wuDMnGMre",
+      "created_at": "2026-11-02T13:21:34.894821",
+      "_id": {
+        "$oid": "6ae88e5e1a0cf01baafc1675"
+      }
+    },
+    {
+      "email": "dr.mahesh@medcare.in",
+      "name": "Dr. Mahesh Singh",
+      "role": "doctor",
+      "password_hash": "$2b$12$6qRTldxBebyCwRC0OTHCJO9ghLogLoqGaNglQwkYa3I/5ZgDYm5x2",
+      "created_at": "2026-11-02T13:44:10.836246",
+      "_id": {
+        "$oid": "6ae893aa9f23a0ea05cfab22"
+      }
+    },
+    {
+      "email": "rahul.kumar@email.com",
+      "name": "Rahul kumar",
+      "role": "patient",
+      "password_hash": "$2b$12$M/gnnFKtkMlmkH5iOD1uZOB9H0frS7GKpjLGuzp8Uxhf.qQZPNtmi",
+      "created_at": "2026-11-02T13:45:11.173055",
+      "_id": {
+        "$oid": "6ae893e79f23a0ea05cfab24"
+      }
+    },
+    {
+      "email": "dr.neha@medcare.in",
+      "name": "Dr. Neha Sharma",
+      "role": "doctor",
+      "password_hash": "$2b$12$Yc0sJUQ6LBmgnZKTMIy0s.jEwROkbf86SlHcGA0eH8SnQoU8amYby",
+      "created_at": "2026-11-03T04:19:03.658936",
+      "_id": {
+        "$oid": "6ae960b76075d905311faf4b"
+      }
+    },
+    {
+      "email": "sumit.kumar@example.in",
+      "name": "Sumit Kumar",
+      "role": "patient",
+      "password_hash": "$2b$12$YAjUVkUYcGJCxXHVAnkzR.seNqvkCjoiAX6PUSLO7/MFmX.U/WkfO",
+      "created_at": "2026-11-03T04:20:48.509378",
+      "_id": {
+        "$oid": "6ae961206075d905311faf4d"
+      }
+    },
+    {
+      "email": "pradyot67@gmail.com",
+      "name": "Pradyot",
+      "role": "patient",
+      "password_hash": "$2b$12$Cpx6UCBHiTMtKYBPSG89p.rdKBSTJ/4l5lxxWNp04synHwgFHLWKy",
+      "_id": {
+        "$oid": "6ae96e9279c98d61f94c3c84"
+      }
+    },
+    {
+      "email": "pradyot66@email.com",
+      "name": "Pradyot",
+      "role": "patient",
+      "password_hash": "$2b$12$w5sro.t/FF0SC56q06s0/OGWibTcIXLGKBE5WarEsJ3KhkEBMoSfq",
+      "created_at": "2026-11-03T05:21:03.844312",
+      "_id": {
+        "$oid": "6ae96f3f79c98d61f94c3c88"
+      }
+    }
+  ],
+  "patients": [
+    {
+      "user_id": "6ae7c5554756d8096e1024f8",
+      "name": "Rajesh Kumar",
+      "age": 45,
+      "gender": "Male",
+      "blood_group": "B+",
+      "phone": "+91 99876 54321",
+      "email": "rajesh.kumar@email.com",
+      "address": "42 MG Road, Sector 15, Noida, UP 201301",
+      "emergency_contact": "+91 98765 12345 (Wife - Sunita Kumar)",
+      "allergies": [
+        "Penicillin",
+        "Sulfa drugs"
+      ],
+      "conditions": [
+        "Type 2 Diabetes",
+        "Hypertension",
+        "Mild Cognitive Impairment"
+      ],
+      "avatar": "",
+      "last_visit": "2026-08-28",
+      "next_appointment": "2026-09-12",
+      "status": "Follow-up Due",
+      "_id": {
+        "$oid": "6ae7c5574756d8096e1024ff"
+      }
+    },
+    {
+      "user_id": "6ae7c5564756d8096e1024fa",
+      "name": "Anita Desai",
+      "age": 38,
+      "gender": "Female",
+      "blood_group": "O+",
+      "phone": "+91 98123 45678",
+      "email": "anita.desai@email.com",
+      "address": "15 Park Avenue, Bandra, Mumbai 400050",
+      "emergency_contact": "+91 97654 32100 (Husband - Vikram Desai)",
+      "allergies": [
+        "Ibuprofen"
+      ],
+      "conditions": [
+        "Migraine",
+        "Anxiety Disorder"
+      ],
+      "avatar": "",
+      "last_visit": "2026-09-02",
+      "next_appointment": "2026-09-15",
+      "status": "Active",
+      "_id": {
+        "$oid": "6ae7c5574756d8096e102500"
+      }
+    },
+    {
+      "user_id": "6ae7c5564756d8096e1024fb",
+      "name": "Suresh Patel",
+      "age": 62,
+      "gender": "Male",
+      "blood_group": "A+",
+      "phone": "+91 99887 76655",
+      "email": "suresh.patel@email.com",
+      "address": "78 Nehru Nagar, Ahmedabad 380015",
+      "emergency_contact": "+91 98765 00123 (Son - Karan Patel)",
+      "allergies": [],
+      "conditions": [
+        "Coronary Artery Disease",
+        "Hyperlipidemia",
+        "Osteoarthritis"
+      ],
+      "avatar": "",
+      "last_visit": "2026-08-25",
+      "next_appointment": "2026-09-10",
+      "status": "Follow-up Due",
+      "_id": {
+        "$oid": "6ae7c5574756d8096e102501"
+      }
+    },
+    {
+      "user_id": "6ae7c5574756d8096e1024fc",
+      "name": "Meera Joshi",
+      "age": 29,
+      "gender": "Female",
+      "blood_group": "AB+",
+      "phone": "+91 97654 33211",
+      "email": "meera.joshi@email.com",
+      "address": "23 Civil Lines, Jaipur 302006",
+      "emergency_contact": "+91 98765 44556 (Father - Ramesh Joshi)",
+      "allergies": [
+        "Aspirin"
+      ],
+      "conditions": [
+        "Epilepsy"
+      ],
+      "avatar": "",
+      "last_visit": "2026-09-01",
+      "next_appointment": "2026-09-20",
+      "status": "Stable",
+      "_id": {
+        "$oid": "6ae7c5574756d8096e102502"
+      }
+    },
+    {
+      "user_id": "6ae7c5574756d8096e1024fd",
+      "name": "Amit Singh",
+      "age": 55,
+      "gender": "Male",
+      "blood_group": "B-",
+      "phone": "+91 98899 77665",
+      "email": "amit.singh@email.com",
+      "address": "56 Rajpur Road, Dehradun 248001",
+      "emergency_contact": "+91 99876 11223 (Wife - Kavita Singh)",
+      "allergies": [
+        "Codeine"
+      ],
+      "conditions": [
+        "Chronic Kidney Disease",
+        "Hypertension",
+        "Anemia"
+      ],
+      "avatar": "",
+      "last_visit": "2026-08-30",
+      "next_appointment": "2026-09-08",
+      "status": "Follow-up Due",
+      "_id": {
+        "$oid": "6ae7c5574756d8096e102503"
+      }
+    },
+    {
+      "user_id": "6ae7c5574756d8096e1024fe",
+      "name": "Lakshmi Nair",
+      "age": 50,
+      "gender": "Female",
+      "blood_group": "O-",
+      "phone": "+91 94432 21100",
+      "email": "lakshmi.nair@email.com",
+      "address": "12 MG Road, Kochi 682016",
+      "emergency_contact": "+91 98765 99887 (Daughter - Divya Nair)",
+      "allergies": [],
+      "conditions": [
+        "Rheumatoid Arthritis",
+        "Hypothyroidism"
+      ],
+      "avatar": "",
+      "last_visit": "2026-08-20",
+      "next_appointment": "2026-09-18",
+      "status": "Stable",
+      "_id": {
+        "$oid": "6ae7c5574756d8096e102504"
+      }
+    },
+    {
+      "user_id": "6ae7c6454756d8096e102537",
+      "name": "Abhimanyu",
+      "age": 40,
+      "gender": "Male",
+      "blood_group": "A+",
+      "phone": "7832947275",
+      "email": "abhimanyu@email.com",
+      "address": "Kolkata",
+      "emergency_contact": "90274625238",
+      "allergies": [
+        "Dust"
+      ],
+      "drug_allergies": [
+        "Paracetamol"
+      ],
+      "conditions": [],
+      "avatar": "",
+      "last_visit": "2026-11-01",
+      "next_appointment": "2026-11-04",
+      "status": "Active",
+      "created_at": "2026-11-01T23:07:49.313883",
+      "_id": {
+        "$oid": "6ae7c6454756d8096e102538"
+      },
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "doctor_name": "Dr. Amit Kumar",
+      "assigned_doctor_id": "6ae7c5f24756d8096e102536",
+      "assigned_doctor_name": "Dr. Amit Kumar",
+      "latest_vitals": {
+        "patient_id": "6ae7c6454756d8096e102538",
+        "blood_pressure": "130/90",
+        "heart_rate": 77,
+        "oxygen_saturation": 94.0,
+        "glucose": 100.2,
+        "temperature": 99.6,
+        "weight": 70.0,
+        "bmi": 23.5,
+        "notes": "",
+        "recorded_by": "Dr. Amit Kumar",
+        "date": "2026-11-01",
+        "recorded_at": "2026-11-01 23:14 UTC",
+        "created_at": "2026-11-01T23:14:12.561712",
+        "id": "6ae7c7c4ab5c6590be5fd817"
+      },
+      "vitals": {
+        "patient_id": "6ae7c6454756d8096e102538",
+        "blood_pressure": "130/90",
+        "heart_rate": 77,
+        "oxygen_saturation": 94.0,
+        "glucose": 100.2,
+        "temperature": 99.6,
+        "weight": 70.0,
+        "bmi": 23.5,
+        "notes": "",
+        "recorded_by": "Dr. Amit Kumar",
+        "date": "2026-11-01",
+        "recorded_at": "2026-11-01 23:14 UTC",
+        "created_at": "2026-11-01T23:14:12.561712",
+        "id": "6ae7c7c4ab5c6590be5fd817"
+      }
+    },
+    {
+      "user_id": "6ae88e5e1a0cf01baafc1675",
+      "name": "Chandan Kumar",
+      "age": 45,
+      "gender": "Male",
+      "blood_group": "O+",
+      "phone": "2847463283",
+      "email": "chandan.kumar@email.com",
+      "address": "bengaluru",
+      "emergency_contact": "48956845895",
+      "allergies": [],
+      "drug_allergies": [],
+      "conditions": [],
+      "avatar": "",
+      "last_visit": "",
+      "next_appointment": "2026-11-09 at 11:30 AM",
+      "status": "Active",
+      "created_at": "2026-11-02T13:21:34.895168",
+      "_id": {
+        "$oid": "6ae88e5e1a0cf01baafc1676"
+      },
+      "doctor_id": "6ae88da01a0cf01baafc1674",
+      "doctor_name": "Dr. Anita Desai",
+      "assigned_doctor_id": "6ae88da01a0cf01baafc1674",
+      "assigned_doctor_name": "Dr. Anita Desai"
+    },
+    {
+      "user_id": "6ae893e79f23a0ea05cfab24",
+      "name": "Rahul kumar",
+      "age": 19,
+      "gender": "Male",
+      "blood_group": "B+",
+      "phone": "",
+      "email": "rahul.kumar@email.com",
+      "address": "delhi",
+      "emergency_contact": "",
+      "allergies": [],
+      "drug_allergies": [],
+      "conditions": [],
+      "avatar": "",
+      "last_visit": "2026-11-02",
+      "next_appointment": "2026-11-06",
+      "status": "Active",
+      "created_at": "2026-11-02T13:45:11.173394",
+      "_id": {
+        "$oid": "6ae893e79f23a0ea05cfab25"
+      },
+      "doctor_id": "6ae893aa9f23a0ea05cfab23",
+      "doctor_name": "Dr. Mahesh Singh",
+      "assigned_doctor_id": "6ae893aa9f23a0ea05cfab23",
+      "assigned_doctor_name": "Dr. Mahesh Singh",
+      "latest_vitals": {
+        "patient_id": "6ae893e79f23a0ea05cfab25",
+        "blood_pressure": "120/80",
+        "heart_rate": 72,
+        "oxygen_saturation": 98.0,
+        "glucose": 100.0,
+        "temperature": 98.6,
+        "weight": 70.0,
+        "bmi": 23.5,
+        "notes": "",
+        "recorded_by": "Dr. Mahesh Singh",
+        "date": "2026-11-02",
+        "recorded_at": "2026-11-02 22:37 UTC",
+        "created_at": "2026-11-02T22:37:16.744437",
+        "id": "6ae9109c975e5d0e9007872c"
+      },
+      "vitals": {
+        "patient_id": "6ae893e79f23a0ea05cfab25",
+        "blood_pressure": "120/80",
+        "heart_rate": 72,
+        "oxygen_saturation": 98.0,
+        "glucose": 100.0,
+        "temperature": 98.6,
+        "weight": 70.0,
+        "bmi": 23.5,
+        "notes": "",
+        "recorded_by": "Dr. Mahesh Singh",
+        "date": "2026-11-02",
+        "recorded_at": "2026-11-02 22:37 UTC",
+        "created_at": "2026-11-02T22:37:16.744437",
+        "id": "6ae9109c975e5d0e9007872c"
+      }
+    },
+    {
+      "user_id": "6ae961206075d905311faf4d",
+      "name": "Sumit Kumar",
+      "age": 23,
+      "gender": "Male",
+      "blood_group": "B+",
+      "phone": "98374746237",
+      "email": "sumit.kumar@example.in",
+      "address": "Kolkata",
+      "emergency_contact": "",
+      "allergies": [
+        "dust"
+      ],
+      "drug_allergies": [
+        "Pencillin"
+      ],
+      "conditions": [
+        "Pre-diabetes"
+      ],
+      "avatar": "",
+      "last_visit": "2026-11-03",
+      "next_appointment": "2026-11-04",
+      "status": "Active",
+      "assigned_doctor_id": "6ae960b76075d905311faf4c",
+      "assigned_doctor_name": "Dr. Neha Sharma",
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "doctor_name": "Dr. Neha Sharma",
+      "created_at": "2026-11-03T04:20:48.509722",
+      "_id": {
+        "$oid": "6ae961206075d905311faf4e"
+      },
+      "latest_vitals": {
+        "patient_id": "6ae961206075d905311faf4e",
+        "blood_pressure": "120/80",
+        "heart_rate": 72,
+        "oxygen_saturation": 98.0,
+        "glucose": 100.0,
+        "temperature": 98.6,
+        "weight": 70.0,
+        "bmi": 23.5,
+        "notes": "",
+        "recorded_by": "Dr. Neha Sharma",
+        "date": "2026-11-03",
+        "recorded_at": "2026-11-03 04:29 UTC",
+        "created_at": "2026-11-03T04:29:13.347742",
+        "id": "6ae963196075d905311faf78"
+      },
+      "vitals": {
+        "patient_id": "6ae961206075d905311faf4e",
+        "blood_pressure": "120/80",
+        "heart_rate": 72,
+        "oxygen_saturation": 98.0,
+        "glucose": 100.0,
+        "temperature": 98.6,
+        "weight": 70.0,
+        "bmi": 23.5,
+        "notes": "",
+        "recorded_by": "Dr. Neha Sharma",
+        "date": "2026-11-03",
+        "recorded_at": "2026-11-03 04:29 UTC",
+        "created_at": "2026-11-03T04:29:13.347742",
+        "id": "6ae963196075d905311faf78"
+      }
+    },
+    {
+      "user_id": "6ae96e9279c98d61f94c3c84",
+      "name": "Pradyot",
+      "age": 56,
+      "gender": "Male",
+      "blood_group": "O+",
+      "phone": "8899866778",
+      "email": "pradyot67@gmail.com",
+      "address": "",
+      "emergency_contact": "Ankit",
+      "allergies": [
+        "Peanuts"
+      ],
+      "conditions": [
+        "Blood Pressure"
+      ],
+      "avatar": "",
+      "last_visit": "2026-11-03",
+      "next_appointment": "",
+      "status": "Active",
+      "_id": {
+        "$oid": "6ae96e9279c98d61f94c3c85"
+      }
+    },
+    {
+      "user_id": "6ae96f3f79c98d61f94c3c88",
+      "name": "Pradyot",
+      "age": 56,
+      "gender": "Male",
+      "blood_group": "O+",
+      "phone": "627356576",
+      "email": "pradyot66@email.com",
+      "address": "",
+      "emergency_contact": "",
+      "allergies": [
+        "Peanuts"
+      ],
+      "drug_allergies": [],
+      "conditions": [],
+      "avatar": "",
+      "last_visit": "",
+      "next_appointment": "",
+      "status": "Active",
+      "assigned_doctor_id": "6ae960b76075d905311faf4c",
+      "assigned_doctor_name": "Dr. Neha Sharma",
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "doctor_name": "Dr. Neha Sharma",
+      "created_at": "2026-11-03T05:21:03.844453",
+      "_id": {
+        "$oid": "6ae96f3f79c98d61f94c3c89"
+      }
+    }
+  ],
+  "doctors": [
+    {
+      "user_id": "6ae7c5554756d8096e1024f9",
+      "name": "Dr. Priya Sharma",
+      "specialization": "Neurologist",
+      "qualification": "MBBS, MD (Neurology), DM",
+      "phone": "+91 98765 43210",
+      "email": "dr.priya@medcare.in",
+      "avatar": "",
+      "experience": 12,
+      "hospital": "MedCare Multi-Specialty Hospital",
+      "assigned_patients": [
+        "6ae7c5574756d8096e1024ff",
+        "6ae7c5574756d8096e102500",
+        "6ae7c5574756d8096e102501",
+        "6ae7c5574756d8096e102502",
+        "6ae7c5574756d8096e102503",
+        "6ae7c5574756d8096e102504"
+      ],
+      "_id": {
+        "$oid": "6ae7c5574756d8096e102505"
+      }
+    },
+    {
+      "user_id": "6ae7c5f24756d8096e102535",
+      "name": "Dr. Amit Kumar",
+      "specialization": "General Medicine",
+      "qualification": "MBBS, MD",
+      "phone": "+91 98765 43210",
+      "email": "dr.amit@medcare.in",
+      "avatar": "",
+      "experience": 5,
+      "hospital": "MedAssist Medical Center, Kolkata",
+      "assigned_patients": [
+        "6ae7c5574756d8096e102504",
+        "6ae7c5574756d8096e102503",
+        "6ae7c5574756d8096e102502",
+        "6ae7c5574756d8096e102500",
+        "6ae7c5574756d8096e1024ff",
+        "6ae7c5574756d8096e102501",
+        "6ae7c6454756d8096e102538"
+      ],
+      "created_at": "2026-11-01T23:06:26.014811",
+      "_id": {
+        "$oid": "6ae7c5f24756d8096e102536"
+      }
+    },
+    {
+      "user_id": "6ae88da01a0cf01baafc1673",
+      "name": "Dr. Anita Desai",
+      "specialization": "Physician",
+      "qualification": "MBBS, MD",
+      "phone": "+91 98765 43210",
+      "email": "dr.anita@medcare.in",
+      "avatar": "",
+      "experience": 5,
+      "hospital": "MedAssist Medical Center",
+      "assigned_patients": [
+        "6ae7c5574756d8096e102502",
+        "6ae7c5574756d8096e102501",
+        "6ae7c5574756d8096e102503",
+        "6ae7c5574756d8096e102504",
+        "6ae7c5574756d8096e102500",
+        "6ae7c5574756d8096e1024ff",
+        "6ae7c6454756d8096e102538",
+        "6ae88e5e1a0cf01baafc1676"
+      ],
+      "created_at": "2026-11-02T13:18:24.786852",
+      "_id": {
+        "$oid": "6ae88da01a0cf01baafc1674"
+      }
+    },
+    {
+      "user_id": "6ae893aa9f23a0ea05cfab22",
+      "name": "Dr. Mahesh Singh",
+      "specialization": "General Medicine",
+      "qualification": "MBBS, MD",
+      "phone": "+91 98765 43210",
+      "email": "dr.mahesh@medcare.in",
+      "avatar": "",
+      "experience": 5,
+      "hospital": "MedAssist Medical Center",
+      "assigned_patients": [
+        "6ae893e79f23a0ea05cfab25"
+      ],
+      "created_at": "2026-11-02T13:44:10.836691",
+      "_id": {
+        "$oid": "6ae893aa9f23a0ea05cfab23"
+      }
+    },
+    {
+      "user_id": "6ae960b76075d905311faf4b",
+      "name": "Dr. Neha Sharma",
+      "specialization": "General Medicine",
+      "qualification": "MBBS, MD",
+      "phone": "+91 98765 43210",
+      "email": "dr.neha@medcare.in",
+      "avatar": "",
+      "experience": 5,
+      "hospital": "MedAssist Medical Center, kolkata",
+      "assigned_patients": [
+        "6ae961206075d905311faf4e",
+        "6ae96e9279c98d61f94c3c85",
+        "6ae96f3f79c98d61f94c3c89"
+      ],
+      "created_at": "2026-11-03T04:19:03.659196",
+      "_id": {
+        "$oid": "6ae960b76075d905311faf4c"
+      }
+    }
+  ],
+  "reports": [
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "type": "Brain MRI",
+      "title": "[DEMO/SAMPLE] Brain MRI - Routine Follow-up",
+      "date": "2026-09-01",
+      "status": "AI Analyzed",
+      "ai_confidence": 88.3,
+      "findings": [],
+      "summary": "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 4 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 44.6%, White Matter 29.9%, CSF 25.6%. Model classification confidence: 88.3%. Visual segmentation mask generated and stored.",
+      "urgency": "Normal",
+      "processing_status": "Ready for Analysis",
+      "file_url": "/uploads/sample_brain_mri.png",
+      "file_name": "sample_brain_mri.png",
+      "is_demo": true,
+      "file_size": 1024,
+      "doctor_notes": null,
+      "_id": {
+        "$oid": "6ae7c5574756d8096e102506"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "type": "X-ray",
+      "title": "[DEMO/SAMPLE] Chest X-ray - Annual Screening",
+      "date": "2026-08-28",
+      "status": "AI Analyzed",
+      "ai_confidence": null,
+      "findings": [],
+      "summary": null,
+      "doctor_notes": "Normal findings on screening. Continue current management.",
+      "urgency": "Normal",
+      "processing_status": "Ready for Analysis",
+      "file_url": "/uploads/sample_chest_xray.png",
+      "file_name": "sample_chest_xray.png",
+      "is_demo": true,
+      "file_size": 1024,
+      "_id": {
+        "$oid": "6ae7c5574756d8096e102507"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "type": "ECG",
+      "title": "[DEMO/SAMPLE] 12-Lead ECG - Cardiac Assessment",
+      "date": "2026-08-28",
+      "status": "AI Analyzed",
+      "ai_confidence": null,
+      "findings": [],
+      "summary": null,
+      "urgency": "Normal",
+      "processing_status": "Ready for Analysis",
+      "file_url": "/uploads/sample_ecg.png",
+      "file_name": "sample_ecg.png",
+      "is_demo": true,
+      "file_size": 1024,
+      "doctor_notes": null,
+      "_id": {
+        "$oid": "6ae7c5574756d8096e102508"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "type": "Blood Test",
+      "title": "[DEMO/SAMPLE] Complete Blood Panel",
+      "date": "2026-09-01",
+      "status": "AI Analyzed",
+      "ai_confidence": null,
+      "findings": [],
+      "summary": null,
+      "urgency": "Moderate",
+      "processing_status": "Ready for Analysis",
+      "file_url": "/uploads/sample_blood_report.pdf",
+      "file_name": "sample_blood_report.pdf",
+      "is_demo": true,
+      "file_size": 1024,
+      "doctor_notes": null,
+      "_id": {
+        "$oid": "6ae7c5574756d8096e102509"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "type": "Medical Report",
+      "title": "[DEMO/SAMPLE] Neurology Consultation Summary",
+      "date": "2026-08-15",
+      "status": "Reviewed",
+      "ai_confidence": 90.0,
+      "findings": [
+        "MMSE score 24/30",
+        "Mild memory impairment noted",
+        "No focal neurological deficits"
+      ],
+      "summary": "Patient shows signs of mild cognitive impairment. Recommend cognitive rehabilitation and follow-up in 3 months.",
+      "doctor_notes": "Referred for neuropsychological testing. Started on donepezil 5mg.",
+      "urgency": "Moderate",
+      "processing_status": "Ready for Analysis",
+      "file_url": "/uploads/sample_blood_report.pdf",
+      "file_name": "sample_neuro_consult.pdf",
+      "is_demo": true,
+      "file_size": 1024,
+      "_id": {
+        "$oid": "6ae7c5574756d8096e10250a"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e102500",
+      "type": "Brain MRI",
+      "title": "[DEMO/SAMPLE] Brain MRI - Migraine Evaluation",
+      "date": "2026-09-02",
+      "status": "Pending",
+      "ai_confidence": null,
+      "findings": [],
+      "summary": "Report pending physician review.",
+      "urgency": "Normal",
+      "processing_status": "Pending Review",
+      "file_url": "/uploads/sample_brain_mri.png",
+      "file_name": "sample_brain_mri.png",
+      "is_demo": true,
+      "file_size": 1024,
+      "doctor_notes": null,
+      "_id": {
+        "$oid": "6ae7c5574756d8096e10250b"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e102501",
+      "type": "ECG",
+      "title": "[DEMO/SAMPLE] 12-Lead ECG - Chest Pain Evaluation",
+      "date": "2026-08-25",
+      "status": "Pending",
+      "ai_confidence": null,
+      "findings": [],
+      "summary": "Report pending physician review.",
+      "urgency": "High",
+      "processing_status": "Pending Review",
+      "file_url": "/uploads/sample_ecg.png",
+      "file_name": "sample_ecg.png",
+      "is_demo": true,
+      "file_size": 1024,
+      "doctor_notes": null,
+      "_id": {
+        "$oid": "6ae7c5574756d8096e10250c"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e102503",
+      "type": "Blood Test",
+      "title": "[DEMO/SAMPLE] Renal Function Panel",
+      "date": "2026-08-30",
+      "status": "Pending",
+      "ai_confidence": null,
+      "findings": [],
+      "summary": "Report pending physician review.",
+      "urgency": "High",
+      "processing_status": "Pending Review",
+      "file_url": "/uploads/sample_blood_report.pdf",
+      "file_name": "sample_blood_report.pdf",
+      "is_demo": true,
+      "file_size": 1024,
+      "doctor_notes": null,
+      "_id": {
+        "$oid": "6ae7c5574756d8096e10250d"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "type": "Brain MRI",
+      "title": "Brain MRI - ad9180d51d8ffe97f7f8d3808092523e1b442a00f76634b6de4a2387344bf7e8",
+      "date": "2026-11-01",
+      "file_url": "/uploads/d6bfc024a8ee491ba8f96f61adc51e3d.png",
+      "file_name": "ad9180d51d8ffe97f7f8d3808092523e1b442a00f76634b6de4a2387344bf7e8.png",
+      "file_size": 89135,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 85.0,
+      "findings": [],
+      "summary": "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 9 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 45.0%, White Matter 29.8%, CSF 25.2%. Model classification confidence: 85.0%. Visual segmentation mask generated and stored.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae7c6e0ab5c6590be5fd7f3"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "type": "X-ray",
+      "title": "X-ray - bdc6c1811033b00810a4595e31403e_big_gallery",
+      "date": "2026-11-01",
+      "file_url": "/uploads/5ae640633f88466fb3c224e9f6dab018.jpeg",
+      "file_name": "bdc6c1811033b00810a4595e31403e_big_gallery.jpeg",
+      "file_size": 52810,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 86.8,
+      "findings": [
+        "Bilateral Lung Field Opacity & Symmetry",
+        "Costophrenic Angles Clarity"
+      ],
+      "summary": "Chest X-ray spatial lung-field and deep CNN analysis completed. Cardiothoracic ratio (CTR): 0.36 [Normal]. Bilateral lung field optical symmetry: 84.1%. Costophrenic angles: Possible mild blunting. DenseNet Grad-CAM heatmap generated to visualize pulmonary aeration zones. Overall analysis confidence: 86.8%. AI-assisted clinical decision support.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae7c6f6ab5c6590be5fd7fb"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "type": "ECG",
+      "title": "ECG - normal-sinus-rhythm-2",
+      "date": "2026-11-01",
+      "file_url": "/uploads/da4c532d7a2946e49b9c63a0e8c8c0de.jpg",
+      "file_name": "normal-sinus-rhythm-2.jpg",
+      "file_size": 194028,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 94.1,
+      "findings": [
+        "Rhythm Regularity"
+      ],
+      "summary": "12-Lead ECG waveform contour extraction and rhythm analysis completed. Estimated heart rate: 78 BPM [Normal]. Rhythm pattern: Mild Sinus Arrhythmia (Mean R-R: 769 ms, variation: 17.6%). QRS morphology: Normal narrow complex (86 ms). ST-segment: Isoelectric. Annotated rhythm trace with R-peak markers saved to clinical records. Confidence: 94.1%. Non-diagnostic decision support.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae7c713ab5c6590be5fd803"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "type": "Blood Test",
+      "title": "Blood Test - B080 (1)",
+      "date": "2026-11-01",
+      "file_url": "/uploads/f06fe7bba074409896160e5c36e2779f.pdf",
+      "file_name": "B080 (1).pdf",
+      "file_size": 120354,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 26.2,
+      "findings": [],
+      "summary": "Blood report analysis completed. Extracted 1/16 parameters. All extracted values within reference range. AI-assisted extraction \u2014 requires physician review.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae7c72bab5c6590be5fd80b"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "type": "Brain MRI",
+      "title": "Brain MRI - brain-tumour-glioblastoma-versus-metastasis-3",
+      "date": "2026-11-02",
+      "file_url": "/uploads/668d33412bfb4f1489063b50c6dbeeee.jpeg",
+      "file_name": "brain-tumour-glioblastoma-versus-metastasis-3.jpeg",
+      "file_size": 23354,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 100.0,
+      "findings": [],
+      "summary": "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 4 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 46.0%, White Matter 28.6%, CSF 25.4%. Model classification confidence: 100.0%. Visual segmentation mask generated and stored.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae90d1f975e5d0e900786ff"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "type": "X-ray",
+      "title": "X-ray - clavicle-fracture-1-2",
+      "date": "2026-11-02",
+      "file_url": "/uploads/7079c906e27e4b4fbb42c2be593e559f.jpeg",
+      "file_name": "clavicle-fracture-1-2.jpeg",
+      "file_size": 152017,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 87.3,
+      "findings": [
+        "Costophrenic Angles Clarity"
+      ],
+      "summary": "Chest X-ray spatial lung-field and deep CNN analysis completed. Cardiothoracic ratio (CTR): 0.36 [Normal]. Bilateral lung field optical symmetry: 86.5%. Costophrenic angles: Possible mild blunting. DenseNet Grad-CAM heatmap generated to visualize pulmonary aeration zones. Overall analysis confidence: 87.3%. AI-assisted clinical decision support.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae90d41975e5d0e90078707"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "type": "X-ray",
+      "title": "X-ray - right-middle-lobe-pneumonia-2",
+      "date": "2026-11-02",
+      "file_url": "/uploads/b60520b0815f423fa1b86250e6245cce.png",
+      "file_name": "right-middle-lobe-pneumonia-2.png",
+      "file_size": 4105191,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 88.1,
+      "findings": [
+        "Costophrenic Angles Clarity"
+      ],
+      "summary": "Chest X-ray spatial lung-field and deep CNN analysis completed. Cardiothoracic ratio (CTR): 0.42 [Normal]. Bilateral lung field optical symmetry: 90.5%. Costophrenic angles: Possible mild blunting. DenseNet Grad-CAM heatmap generated to visualize pulmonary aeration zones. Overall analysis confidence: 88.1%. AI-assisted clinical decision support.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae90e88975e5d0e9007870f"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "type": "ECG",
+      "title": "ECG - Rhythm-Strip-LITFL-Atrial-Fibrillation",
+      "date": "2026-11-02",
+      "file_url": "/uploads/97623481fb724d6faa161f3154e35ec0.jpg",
+      "file_name": "Rhythm-Strip-LITFL-Atrial-Fibrillation.jpg",
+      "file_size": 43072,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 93.8,
+      "findings": [
+        "Rhythm Regularity"
+      ],
+      "summary": "12-Lead ECG waveform contour extraction and rhythm analysis completed. Estimated heart rate: 87 BPM [Normal]. Rhythm pattern: Irregular Rhythm / Arrhythmic Variation (Mean R-R: 690 ms, variation: 24.3%). QRS morphology: Normal narrow complex (86 ms). ST-segment: Isoelectric. Annotated rhythm trace with R-peak markers saved to clinical records. Confidence: 93.8%. Non-diagnostic decision support.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae90ed9975e5d0e90078717"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "type": "Blood Test",
+      "title": "Blood Test - DRPwS_sample_report",
+      "date": "2026-11-02",
+      "file_url": "/uploads/aa06d9c9fe9a472581f670919fb4d6d8.pdf",
+      "file_name": "DRPwS_sample_report.pdf",
+      "file_size": 54197,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 45.0,
+      "findings": [
+        "HbA1c"
+      ],
+      "summary": "Blood report analysis completed. Extracted 4/16 parameters. 1 value(s) outside reference range. AI-assisted extraction \u2014 requires physician review.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae90eff975e5d0e9007871f"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "type": "Brain MRI",
+      "title": "Brain MRI - 64bfa7678d418a898f3ac21e79a173_gallery",
+      "date": "2026-11-03",
+      "file_url": "/uploads/66d5d499a785412caed76ce33e3c8fc2.jpg",
+      "file_name": "64bfa7678d418a898f3ac21e79a173_gallery.jpg",
+      "file_size": 28070,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 82.3,
+      "findings": [],
+      "summary": "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 9 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 45.8%, White Matter 29.2%, CSF 25.0%. Model classification confidence: 82.3%. Visual segmentation mask generated and stored.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae9613d6075d905311faf4f"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "type": "X-ray",
+      "title": "X-ray - right-middle-lobe-pneumonia",
+      "date": "2026-11-03",
+      "file_url": "/uploads/24a896f4179c4d9bac761583b95ce2d4.png",
+      "file_name": "right-middle-lobe-pneumonia.png",
+      "file_size": 5083318,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 87.9,
+      "findings": [
+        "Costophrenic Angles Clarity"
+      ],
+      "summary": "Chest X-ray spatial lung-field and deep CNN analysis completed. Cardiothoracic ratio (CTR): 0.36 [Normal]. Bilateral lung field optical symmetry: 89.3%. Costophrenic angles: Possible mild blunting. DenseNet Grad-CAM heatmap generated to visualize pulmonary aeration zones. Overall analysis confidence: 87.9%. AI-assisted clinical decision support.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae9615a6075d905311faf57"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "type": "ECG",
+      "title": "ECG - ECG-showing-atrial-fibrillation-with-new-ST-elevation-in-the-inferior-leads",
+      "date": "2026-11-03",
+      "file_url": "/uploads/b310aeb065a04310bb0310facbfd3cc1.png",
+      "file_name": "ECG-showing-atrial-fibrillation-with-new-ST-elevation-in-the-inferior-leads.png",
+      "file_size": 353154,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 93.0,
+      "findings": [
+        "Rhythm Regularity"
+      ],
+      "summary": "12-Lead ECG waveform contour extraction and rhythm analysis completed. Estimated heart rate: 75 BPM [Normal]. Rhythm pattern: Irregular Rhythm / Arrhythmic Variation (Mean R-R: 800 ms, variation: 40.3%). QRS morphology: Normal narrow complex (86 ms). ST-segment: Isoelectric. Annotated rhythm trace with R-peak markers saved to clinical records. Confidence: 93.0%. Non-diagnostic decision support.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae9617e6075d905311faf5f"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "type": "Blood Test",
+      "title": "Blood Test - DRPwS_sample_report",
+      "date": "2026-11-03",
+      "file_url": "/uploads/f96db79d0f104170a225e4f242b5f323.pdf",
+      "file_name": "DRPwS_sample_report.pdf",
+      "file_size": 54197,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 45.0,
+      "findings": [
+        "HbA1c"
+      ],
+      "summary": "Blood report analysis completed. Extracted 4/16 parameters. 1 value(s) outside reference range. AI-assisted extraction \u2014 requires physician review.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae961b86075d905311faf67"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "type": "Brain MRI",
+      "title": "Brain MRI - 64bfa7678d418a898f3ac21e79a173_gallery",
+      "date": "2026-11-03",
+      "file_url": "/uploads/04f15617686c442580f4d739b9613f03.jpg",
+      "file_name": "64bfa7678d418a898f3ac21e79a173_gallery.jpg",
+      "file_size": 28070,
+      "processing_status": "Ready for Analysis",
+      "status": "AI Analyzed",
+      "ai_confidence": 82.3,
+      "findings": [],
+      "summary": "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 9 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 45.8%, White Matter 29.2%, CSF 25.0%. Model classification confidence: 82.3%. Visual segmentation mask generated and stored.",
+      "doctor_notes": null,
+      "urgency": "Normal",
+      "_id": {
+        "$oid": "6ae96b3e9b49016c38d00b62"
+      }
+    }
+  ],
+  "prescriptions": [
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "doctor_id": "6ae7c5574756d8096e102505",
+      "doctor_name": "Dr. Priya Sharma",
+      "date": "2026-08-28",
+      "status": "Active",
+      "diagnosis": "Type 2 Diabetes, Hypertension, Mild Cognitive Impairment",
+      "medicines": [
+        {
+          "name": "Metformin",
+          "dosage": "1000mg",
+          "frequency": "Twice daily",
+          "duration": "3 months",
+          "instructions": "Take with meals"
+        },
+        {
+          "name": "Amlodipine",
+          "dosage": "5mg",
+          "frequency": "Once daily",
+          "duration": "3 months",
+          "instructions": "Take in the morning"
+        },
+        {
+          "name": "Atorvastatin",
+          "dosage": "20mg",
+          "frequency": "Once daily",
+          "duration": "3 months",
+          "instructions": "Take at bedtime"
+        },
+        {
+          "name": "Donepezil",
+          "dosage": "5mg",
+          "frequency": "Once daily",
+          "duration": "3 months",
+          "instructions": "Take at bedtime"
+        }
+      ],
+      "notes": "Monitor blood glucose regularly. Follow diabetic diet. Report any dizziness or confusion. Next cognitive assessment in 3 months.",
+      "follow_up_date": "2026-09-12",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102516"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "doctor_id": "6ae7c5574756d8096e102505",
+      "doctor_name": "Dr. Priya Sharma",
+      "date": "2026-06-15",
+      "status": "Completed",
+      "diagnosis": "Type 2 Diabetes, Hypertension",
+      "medicines": [
+        {
+          "name": "Metformin",
+          "dosage": "500mg",
+          "frequency": "Twice daily",
+          "duration": "3 months",
+          "instructions": "Take with meals"
+        },
+        {
+          "name": "Amlodipine",
+          "dosage": "5mg",
+          "frequency": "Once daily",
+          "duration": "3 months",
+          "instructions": "Take in the morning"
+        },
+        {
+          "name": "Atorvastatin",
+          "dosage": "10mg",
+          "frequency": "Once daily",
+          "duration": "3 months",
+          "instructions": "Take at bedtime"
+        }
+      ],
+      "notes": "Initial prescription. Titrate Metformin if tolerated well. Follow up in 3 months with blood work.",
+      "follow_up_date": "2026-08-28",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102517"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "doctor_name": "Dr. Amit Kumar",
+      "date": "2026-11-01",
+      "diagnosis": "fever",
+      "medicines": [
+        {
+          "name": "P250 Tablet",
+          "dosage": "250 mg",
+          "frequency": "Once daily",
+          "duration": "4 days",
+          "instructions": "Take after Food"
+        }
+      ],
+      "notes": "",
+      "follow_up_date": "",
+      "status": "Active",
+      "_id": {
+        "$oid": "6ae7cb2db96b6ea7fa4e6fa5"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "doctor_name": "Dr. Neha Sharma",
+      "date": "2026-11-03",
+      "diagnosis": "Pneumonia and elevated  HbA1c",
+      "medicines": [
+        {
+          "name": "Levofloxacin",
+          "dosage": "250 mg",
+          "frequency": "Once daily",
+          "duration": "5 days",
+          "instructions": "Take with food"
+        },
+        {
+          "name": "Metformin",
+          "dosage": "50 mg",
+          "frequency": "Twice daily",
+          "duration": "30 days",
+          "instructions": "Take in morning and evening"
+        }
+      ],
+      "notes": "",
+      "follow_up_date": "",
+      "status": "Active",
+      "_id": {
+        "$oid": "6ae962fc6075d905311faf75"
+      }
+    }
+  ],
+  "appointments": [
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "patient_name": "Rajesh Kumar",
+      "doctor_id": "6ae7c5574756d8096e102505",
+      "doctor_name": "Dr. Priya Sharma",
+      "date": "2026-09-12",
+      "time": "10:00 AM",
+      "type": "Follow-up",
+      "status": "Scheduled",
+      "notes": "Review blood work and MRI results",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102518"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e102500",
+      "patient_name": "Anita Desai",
+      "doctor_id": "6ae7c5574756d8096e102505",
+      "doctor_name": "Dr. Priya Sharma",
+      "date": "2026-09-15",
+      "time": "11:30 AM",
+      "type": "Follow-up",
+      "status": "Scheduled",
+      "notes": "Migraine assessment follow-up",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102519"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e102501",
+      "patient_name": "Suresh Patel",
+      "doctor_id": "6ae7c5574756d8096e102505",
+      "doctor_name": "Dr. Priya Sharma",
+      "date": "2026-09-10",
+      "time": "09:00 AM",
+      "type": "Report Review",
+      "status": "Scheduled",
+      "notes": "Review ECG findings \u2014 flagged for ischemic changes",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10251a"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e102503",
+      "patient_name": "Amit Singh",
+      "doctor_id": "6ae7c5574756d8096e102505",
+      "doctor_name": "Dr. Priya Sharma",
+      "date": "2026-09-08",
+      "time": "02:00 PM",
+      "type": "Follow-up",
+      "status": "Scheduled",
+      "notes": "CKD follow-up and renal panel review",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10251b"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e102502",
+      "patient_name": "Meera Joshi",
+      "doctor_id": "6ae7c5574756d8096e102505",
+      "doctor_name": "Dr. Priya Sharma",
+      "date": "2026-09-20",
+      "time": "03:30 PM",
+      "type": "Consultation",
+      "status": "Scheduled",
+      "notes": "Epilepsy management review",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10251c"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "patient_name": "Rajesh Kumar",
+      "doctor_id": "6ae7c5574756d8096e102505",
+      "doctor_name": "Dr. Priya Sharma",
+      "date": "2026-08-28",
+      "time": "10:00 AM",
+      "type": "Consultation",
+      "status": "Completed",
+      "notes": "Initial neurological consultation completed",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10251d"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e102504",
+      "patient_name": "Lakshmi Nair",
+      "doctor_id": "6ae7c5574756d8096e102505",
+      "doctor_name": "Dr. Priya Sharma",
+      "date": "2026-09-18",
+      "time": "04:00 PM",
+      "type": "Follow-up",
+      "status": "Scheduled",
+      "notes": "Arthritis medication review",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10251e"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "patient_name": "Abhimanyu",
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "doctor_name": "Dr. Amit Kumar",
+      "date": "2026-11-04",
+      "time": "10:00 AM",
+      "type": "Consultation",
+      "status": "Completed",
+      "notes": "fever",
+      "created_at": "2026-11-01T23:08:44.993363",
+      "_id": {
+        "$oid": "6ae7c67c4756d8096e102539"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "patient_name": "Abhimanyu",
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "doctor_name": "Dr. Amit Kumar",
+      "date": "2026-11-04",
+      "time": "10:00 AM",
+      "type": "Follow-up",
+      "status": "Cancelled",
+      "notes": "Scheduled by attending physician during clinical consultation",
+      "created_at": "2026-11-01T23:12:34.080883",
+      "_id": {
+        "$oid": "6ae7c762ab5c6590be5fd815"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "patient_name": "Abhimanyu",
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "doctor_name": "Dr. Amit Kumar",
+      "date": "2026-11-04",
+      "time": "10:00 AM",
+      "type": "Follow-up",
+      "status": "Scheduled",
+      "notes": "Scheduled by attending physician during clinical consultation",
+      "created_at": "2026-11-01T23:14:12.563563",
+      "_id": {
+        "$oid": "6ae7c7c4ab5c6590be5fd818"
+      }
+    },
+    {
+      "patient_id": "6ae88e5e1a0cf01baafc1676",
+      "patient_name": "Chandan Kumar",
+      "doctor_id": "6ae88da01a0cf01baafc1674",
+      "doctor_name": "Dr. Anita Desai",
+      "date": "2026-11-09",
+      "time": "11:30 AM",
+      "type": "Consultation",
+      "status": "Scheduled",
+      "notes": "pain in chest",
+      "created_at": "2026-11-02T13:22:30.345061",
+      "_id": {
+        "$oid": "6ae88e961a0cf01baafc1677"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "patient_name": "Rahul kumar",
+      "doctor_id": "6ae893aa9f23a0ea05cfab23",
+      "doctor_name": "Dr. Mahesh Singh",
+      "date": "2026-11-06",
+      "time": "10:00 AM",
+      "type": "Consultation",
+      "status": "Scheduled",
+      "notes": "Scheduled via patient portal",
+      "created_at": "2026-11-02T13:48:54.209909",
+      "_id": {
+        "$oid": "6ae894c6448ebf3172f7ec61"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "patient_name": "Rahul kumar",
+      "doctor_id": "6ae893aa9f23a0ea05cfab23",
+      "doctor_name": "Dr. Mahesh Singh",
+      "date": "2026-11-06",
+      "time": "10:00 AM",
+      "type": "Follow-up",
+      "status": "Scheduled",
+      "notes": "Scheduled by attending physician during clinical consultation",
+      "created_at": "2026-11-02T22:37:16.746377",
+      "_id": {
+        "$oid": "6ae9109c975e5d0e9007872d"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "patient_name": "Sumit Kumar",
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "doctor_name": "Dr. Neha Sharma",
+      "date": "2026-11-04",
+      "time": "11:30 AM",
+      "type": "Report Review",
+      "status": "Scheduled",
+      "notes": "Report Review",
+      "created_at": "2026-11-03T04:24:11.649268",
+      "_id": {
+        "$oid": "6ae961eb6075d905311faf73"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "patient_name": "Sumit Kumar",
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "doctor_name": "Dr. Neha Sharma",
+      "date": "2026-11-04",
+      "time": "10:00 AM",
+      "type": "Follow-up",
+      "status": "Scheduled",
+      "notes": "Scheduled by attending physician during clinical consultation",
+      "created_at": "2026-11-03T04:29:13.350745",
+      "_id": {
+        "$oid": "6ae963196075d905311faf79"
+      }
+    }
+  ],
+  "doctor_notes": [],
+  "medical_history": [
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "date": "2026-09-01",
+      "title": "Brain MRI & Blood Panel",
+      "description": "Routine follow-up MRI and comprehensive blood work completed. AI analysis pending review.",
+      "type": "report",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10251f"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "date": "2026-08-28",
+      "title": "Neurological Consultation",
+      "description": "Consultation with Dr. Priya Sharma. ECG and Chest X-ray performed. Prescription updated.",
+      "type": "visit",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102520"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "date": "2026-08-15",
+      "title": "MMSE Assessment",
+      "description": "Mini-Mental State Examination scored 24/30. Mild cognitive impairment diagnosed.",
+      "type": "diagnosis",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102521"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "date": "2026-06-15",
+      "title": "Initial Visit",
+      "description": "First visit for persistent headaches and memory concerns. Type 2 Diabetes and Hypertension noted. Initial prescription issued.",
+      "type": "visit",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102522"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "date": "2026-03-10",
+      "title": "Diabetes Diagnosis",
+      "description": "Diagnosed with Type 2 Diabetes Mellitus at local clinic. HbA1c was 8.2% at diagnosis.",
+      "type": "diagnosis",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102523"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "date": "2025-11-20",
+      "title": "Hypertension Diagnosis",
+      "description": "Diagnosed with Stage 1 Hypertension. BP was 152/96 mmHg on multiple readings.",
+      "type": "diagnosis",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102524"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "date": "2026-11-01",
+      "title": "Brain MRI Uploaded",
+      "description": "Brain MRI - ad9180d51d8ffe97f7f8d3808092523e1b442a00f76634b6de4a2387344bf7e8 was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae7c6e0ab5c6590be5fd7f3",
+      "_id": {
+        "$oid": "6ae7c6e0ab5c6590be5fd7f4"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "date": "2026-11-01",
+      "title": "Brain MRI AI Analysis Completed",
+      "description": "AI-assisted analysis of Brain MRI completed. Confidence: 85.0%.",
+      "type": "report",
+      "linked_entity_id": "6ae7c6e0ab5c6590be5fd7f3",
+      "_id": {
+        "$oid": "6ae7c6e0ab5c6590be5fd7f8"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "date": "2026-11-01",
+      "title": "X-ray Uploaded",
+      "description": "X-ray - bdc6c1811033b00810a4595e31403e_big_gallery was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae7c6f6ab5c6590be5fd7fb",
+      "_id": {
+        "$oid": "6ae7c6f6ab5c6590be5fd7fc"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "date": "2026-11-01",
+      "title": "X-ray AI Analysis Completed",
+      "description": "AI-assisted analysis of X-ray completed. Confidence: 86.8%.",
+      "type": "report",
+      "linked_entity_id": "6ae7c6f6ab5c6590be5fd7fb",
+      "_id": {
+        "$oid": "6ae7c6f7ab5c6590be5fd800"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "date": "2026-11-01",
+      "title": "ECG Uploaded",
+      "description": "ECG - normal-sinus-rhythm-2 was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae7c713ab5c6590be5fd803",
+      "_id": {
+        "$oid": "6ae7c713ab5c6590be5fd804"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "date": "2026-11-01",
+      "title": "ECG AI Analysis Completed",
+      "description": "AI-assisted analysis of ECG completed. Confidence: 94.1%.",
+      "type": "report",
+      "linked_entity_id": "6ae7c713ab5c6590be5fd803",
+      "_id": {
+        "$oid": "6ae7c713ab5c6590be5fd808"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "date": "2026-11-01",
+      "title": "Blood Test Uploaded",
+      "description": "Blood Test - B080 (1) was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae7c72bab5c6590be5fd80b",
+      "_id": {
+        "$oid": "6ae7c72bab5c6590be5fd80c"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "date": "2026-11-01",
+      "title": "Blood Test AI Analysis Completed",
+      "description": "AI-assisted analysis of Blood Test completed. Confidence: 26.2%.",
+      "type": "report",
+      "linked_entity_id": "6ae7c72bab5c6590be5fd80b",
+      "_id": {
+        "$oid": "6ae7c72bab5c6590be5fd811"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "date": "2026-11-01",
+      "title": "Prescription Created",
+      "description": "Dr. Dr. Amit Kumar prescribed P250 Tablet. Diagnosis: fever",
+      "type": "prescription",
+      "linked_entity_id": "6ae7cb2db96b6ea7fa4e6fa5",
+      "_id": {
+        "$oid": "6ae7cb2db96b6ea7fa4e6fa6"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "date": "2026-11-02",
+      "title": "Brain MRI Uploaded",
+      "description": "Brain MRI - brain-tumour-glioblastoma-versus-metastasis-3 was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae90d1f975e5d0e900786ff",
+      "_id": {
+        "$oid": "6ae90d1f975e5d0e90078700"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "date": "2026-11-02",
+      "title": "Brain MRI AI Analysis Completed",
+      "description": "AI-assisted analysis of Brain MRI completed. Confidence: 100.0%.",
+      "type": "report",
+      "linked_entity_id": "6ae90d1f975e5d0e900786ff",
+      "_id": {
+        "$oid": "6ae90d20975e5d0e90078704"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "date": "2026-11-02",
+      "title": "X-ray Uploaded",
+      "description": "X-ray - clavicle-fracture-1-2 was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae90d41975e5d0e90078707",
+      "_id": {
+        "$oid": "6ae90d41975e5d0e90078708"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "date": "2026-11-02",
+      "title": "X-ray AI Analysis Completed",
+      "description": "AI-assisted analysis of X-ray completed. Confidence: 87.3%.",
+      "type": "report",
+      "linked_entity_id": "6ae90d41975e5d0e90078707",
+      "_id": {
+        "$oid": "6ae90d42975e5d0e9007870c"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "date": "2026-11-02",
+      "title": "X-ray Uploaded",
+      "description": "X-ray - right-middle-lobe-pneumonia-2 was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae90e88975e5d0e9007870f",
+      "_id": {
+        "$oid": "6ae90e88975e5d0e90078710"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "date": "2026-11-02",
+      "title": "X-ray AI Analysis Completed",
+      "description": "AI-assisted analysis of X-ray completed. Confidence: 88.1%.",
+      "type": "report",
+      "linked_entity_id": "6ae90e88975e5d0e9007870f",
+      "_id": {
+        "$oid": "6ae90e89975e5d0e90078714"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "date": "2026-11-02",
+      "title": "ECG Uploaded",
+      "description": "ECG - Rhythm-Strip-LITFL-Atrial-Fibrillation was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae90ed9975e5d0e90078717",
+      "_id": {
+        "$oid": "6ae90ed9975e5d0e90078718"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "date": "2026-11-02",
+      "title": "ECG AI Analysis Completed",
+      "description": "AI-assisted analysis of ECG completed. Confidence: 93.8%.",
+      "type": "report",
+      "linked_entity_id": "6ae90ed9975e5d0e90078717",
+      "_id": {
+        "$oid": "6ae90eda975e5d0e9007871c"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "date": "2026-11-02",
+      "title": "Blood Test Uploaded",
+      "description": "Blood Test - DRPwS_sample_report was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae90eff975e5d0e9007871f",
+      "_id": {
+        "$oid": "6ae90eff975e5d0e90078720"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "date": "2026-11-02",
+      "title": "Blood Test AI Analysis Completed",
+      "description": "AI-assisted analysis of Blood Test completed. Confidence: 45.0%.",
+      "type": "report",
+      "linked_entity_id": "6ae90eff975e5d0e9007871f",
+      "_id": {
+        "$oid": "6ae90eff975e5d0e90078728"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "date": "2026-11-03",
+      "title": "Brain MRI Uploaded",
+      "description": "Brain MRI - 64bfa7678d418a898f3ac21e79a173_gallery was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae9613d6075d905311faf4f",
+      "_id": {
+        "$oid": "6ae9613d6075d905311faf50"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "date": "2026-11-03",
+      "title": "Brain MRI AI Analysis Completed",
+      "description": "AI-assisted analysis of Brain MRI completed. Confidence: 82.3%.",
+      "type": "report",
+      "linked_entity_id": "6ae9613d6075d905311faf4f",
+      "_id": {
+        "$oid": "6ae9613d6075d905311faf54"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "date": "2026-11-03",
+      "title": "X-ray Uploaded",
+      "description": "X-ray - right-middle-lobe-pneumonia was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae9615a6075d905311faf57",
+      "_id": {
+        "$oid": "6ae9615a6075d905311faf58"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "date": "2026-11-03",
+      "title": "X-ray AI Analysis Completed",
+      "description": "AI-assisted analysis of X-ray completed. Confidence: 87.9%.",
+      "type": "report",
+      "linked_entity_id": "6ae9615a6075d905311faf57",
+      "_id": {
+        "$oid": "6ae9615c6075d905311faf5c"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "date": "2026-11-03",
+      "title": "ECG Uploaded",
+      "description": "ECG - ECG-showing-atrial-fibrillation-with-new-ST-elevation-in-the-inferior-leads was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae9617e6075d905311faf5f",
+      "_id": {
+        "$oid": "6ae9617e6075d905311faf60"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "date": "2026-11-03",
+      "title": "ECG AI Analysis Completed",
+      "description": "AI-assisted analysis of ECG completed. Confidence: 93.0%.",
+      "type": "report",
+      "linked_entity_id": "6ae9617e6075d905311faf5f",
+      "_id": {
+        "$oid": "6ae9617e6075d905311faf64"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "date": "2026-11-03",
+      "title": "Blood Test Uploaded",
+      "description": "Blood Test - DRPwS_sample_report was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae961b86075d905311faf67",
+      "_id": {
+        "$oid": "6ae961b86075d905311faf68"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "date": "2026-11-03",
+      "title": "Blood Test AI Analysis Completed",
+      "description": "AI-assisted analysis of Blood Test completed. Confidence: 45.0%.",
+      "type": "report",
+      "linked_entity_id": "6ae961b86075d905311faf67",
+      "_id": {
+        "$oid": "6ae961b86075d905311faf70"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "date": "2026-11-03",
+      "title": "Prescription Created",
+      "description": "Dr. Dr. Neha Sharma prescribed Levofloxacin, Metformin. Diagnosis: Pneumonia and elevated  HbA1c",
+      "type": "prescription",
+      "linked_entity_id": "6ae962fc6075d905311faf75",
+      "_id": {
+        "$oid": "6ae962fc6075d905311faf76"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "date": "2026-11-03",
+      "title": "Brain MRI Uploaded",
+      "description": "Brain MRI - 64bfa7678d418a898f3ac21e79a173_gallery was uploaded for analysis.",
+      "type": "report",
+      "linked_entity_id": "6ae96b3e9b49016c38d00b62",
+      "_id": {
+        "$oid": "6ae96b3e9b49016c38d00b63"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "date": "2026-11-03",
+      "title": "Brain MRI AI Analysis Completed",
+      "description": "AI-assisted analysis of Brain MRI completed. Confidence: 82.3%.",
+      "type": "report",
+      "linked_entity_id": "6ae96b3e9b49016c38d00b62",
+      "_id": {
+        "$oid": "6ae96b3e9b49016c38d00b67"
+      }
+    },
+    {
+      "patient_id": "6ae96e9279c98d61f94c3c85",
+      "date": "2026-11-03",
+      "title": "Patient Onboarded",
+      "description": "Patient profile created and assigned to Dr. Dr. Neha Sharma.",
+      "type": "event",
+      "linked_entity_id": "6ae96e9279c98d61f94c3c85",
+      "_id": {
+        "$oid": "6ae96e9279c98d61f94c3c86"
+      }
+    }
+  ],
+  "ai_analysis": [
+    {
+      "report_id": "6ae7c5574756d8096e102506",
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "type": "Brain MRI",
+      "modality": "Brain MRI",
+      "model_name": "BrainCNN Tissue Classifier",
+      "model_type": "CNN (Conv2d \u00d7 3 + FC) \u2014 PyTorch",
+      "confidence": 88.3,
+      "findings": [
+        {
+          "label": "Gray Matter Distribution",
+          "value": "44.6% of brain parenchyma",
+          "status": "Normal",
+          "detail": "Cerebral gray matter cortex volume segmented across brain slice."
+        },
+        {
+          "label": "White Matter Distribution",
+          "value": "29.9% of brain parenchyma",
+          "status": "Normal",
+          "detail": "Subcortical white matter tracts density evaluated."
+        },
+        {
+          "label": "CSF & Ventricular Volume",
+          "value": "25.6% of intracranial volume",
+          "status": "Normal",
+          "detail": "Ventricular and sulcal fluid spaces assessed for age-appropriate prominence."
+        },
+        {
+          "label": "Predominant Tissue Classification",
+          "value": "Gray Matter (BrainCNN Confidence: 88.3%)",
+          "status": "Normal",
+          "detail": "PyTorch CNN 3-class patch classifier evaluated across 4 region(s)."
+        },
+        {
+          "label": "Tissue Symmetry & Integrity",
+          "value": "Bilateral hemispheric symmetry preserved without mass effect",
+          "status": "Normal",
+          "detail": "No midline shift or focal parenchymal distortion detected."
+        }
+      ],
+      "summary": "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 4 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 44.6%, White Matter 29.9%, CSF 25.6%. Model classification confidence: 88.3%. Visual segmentation mask generated and stored.",
+      "recommendations": [
+        "Compare segmentation results with clinical presentation and patient history.",
+        "Evaluate ventricular and sulcal spaces for age-appropriate patterns.",
+        "Correlate findings with neurological examination and cognitive assessments.",
+        "Consider follow-up imaging if focal small-vessel ischemic changes are suspected."
+      ],
+      "output_image_url": "/uploads/mri_seg_b0e9609edab84498b872bcc503418829.png",
+      "processed_at": "2026-11-01T23:03:54.318916",
+      "status": "Completed",
+      "is_demo": true,
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10250e"
+      }
+    },
+    {
+      "report_id": "6ae7c5574756d8096e10250a",
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "type": "Medical Report",
+      "modality": "Medical Report",
+      "model_name": "Clinical NLP Summarizer",
+      "model_type": "Medical Document Feature Extractor",
+      "confidence": 90.0,
+      "findings": [
+        {
+          "label": "Cognitive Assessment",
+          "value": "MMSE score 24/30 \u2014 mild impairment",
+          "status": "Abnormal"
+        },
+        {
+          "label": "Memory Function",
+          "value": "Short-term memory deficits noted",
+          "status": "Abnormal"
+        },
+        {
+          "label": "Motor Function",
+          "value": "No focal neurological deficits",
+          "status": "Normal"
+        },
+        {
+          "label": "Cranial Nerves",
+          "value": "Intact bilateral",
+          "status": "Normal"
+        }
+      ],
+      "summary": "AI-assisted extraction identifies mild cognitive impairment with MMSE score of 24/30.",
+      "recommendations": [
+        "Neuropsychological testing for detailed cognitive profile",
+        "Cognitive rehabilitation therapy",
+        "Follow-up assessment in 3 months"
+      ],
+      "output_image_url": "",
+      "processed_at": "2026-08-15T16:00:00",
+      "status": "Completed",
+      "is_demo": true,
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10250f"
+      }
+    },
+    {
+      "report_id": "6ae7c6e0ab5c6590be5fd7f3",
+      "_id": {
+        "$oid": "6ae7c6e0ab5c6590be5fd7f7"
+      },
+      "patient_id": "6ae7c6454756d8096e102538",
+      "type": "Brain MRI",
+      "modality": "Brain MRI",
+      "model_name": "BrainCNN Tissue Classifier",
+      "model_type": "CNN (Conv2d \u00d7 3 + FC) \u2014 PyTorch",
+      "confidence": 85.0,
+      "findings": [
+        {
+          "label": "Gray Matter Distribution",
+          "value": "45.0% of brain parenchyma",
+          "status": "Normal",
+          "detail": "Cerebral gray matter cortex volume segmented across brain slice."
+        },
+        {
+          "label": "White Matter Distribution",
+          "value": "29.8% of brain parenchyma",
+          "status": "Normal",
+          "detail": "Subcortical white matter tracts density evaluated."
+        },
+        {
+          "label": "CSF & Ventricular Volume",
+          "value": "25.2% of intracranial volume",
+          "status": "Normal",
+          "detail": "Ventricular and sulcal fluid spaces assessed for age-appropriate prominence."
+        },
+        {
+          "label": "Predominant Tissue Classification",
+          "value": "Gray Matter (BrainCNN Confidence: 85.0%)",
+          "status": "Normal",
+          "detail": "PyTorch CNN 3-class patch classifier evaluated across 9 region(s)."
+        },
+        {
+          "label": "Tissue Symmetry & Integrity",
+          "value": "Bilateral hemispheric symmetry preserved without mass effect",
+          "status": "Normal",
+          "detail": "No midline shift or focal parenchymal distortion detected."
+        }
+      ],
+      "summary": "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 9 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 45.0%, White Matter 29.8%, CSF 25.2%. Model classification confidence: 85.0%. Visual segmentation mask generated and stored.",
+      "recommendations": [
+        "Compare segmentation results with clinical presentation and patient history.",
+        "Evaluate ventricular and sulcal spaces for age-appropriate patterns.",
+        "Correlate findings with neurological examination and cognitive assessments.",
+        "Consider follow-up imaging if focal small-vessel ischemic changes are suspected."
+      ],
+      "output_image_url": "/uploads/mri_seg_3c59b05e70824f78aa3f05568a3cfb98.png",
+      "processed_at": "2026-11-01T23:10:24.438448",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-01T23:10:24.438000"
+      }
+    },
+    {
+      "report_id": "6ae7c6f6ab5c6590be5fd7fb",
+      "_id": {
+        "$oid": "6ae7c6f7ab5c6590be5fd7ff"
+      },
+      "patient_id": "6ae7c6454756d8096e102538",
+      "type": "X-ray",
+      "modality": "X-ray",
+      "model_name": "DenseNet-121 + Spatial Lung-Field Engine",
+      "model_type": "Deep CNN + OpenCV Spatial Thoracic Analysis",
+      "confidence": 86.8,
+      "findings": [
+        {
+          "label": "Cardiothoracic Ratio (CTR)",
+          "value": "0.36 (Normal <= 0.50)",
+          "status": "Normal",
+          "detail": "Cardiac transverse dimension measured at 147px relative to thoracic width 544px."
+        },
+        {
+          "label": "Bilateral Lung Field Opacity & Symmetry",
+          "value": "Symmetry 84.1% (Left: 66.1%, Right: 55.6%)",
+          "status": "Borderline",
+          "detail": "Bilateral hemithorax optical density evaluated for focal consolidation or asymmetry."
+        },
+        {
+          "label": "Costophrenic Angles Clarity",
+          "value": "Borderline Recess Blunting",
+          "status": "Borderline",
+          "detail": "Mild costophrenic sulcus blunting noted \u2014 correlate for minor pleural effusion"
+        },
+        {
+          "label": "Pulmonary Vascular Markings",
+          "value": "Normal branching pattern, no cephalization or hilar congestion",
+          "status": "Normal",
+          "detail": "Central pulmonary vasculature shows normal caliber without interstitial edema pattern."
+        },
+        {
+          "label": "Deep CNN Focal Activation",
+          "value": "DenseNet-121 Mean Activation: 0.274",
+          "status": "Normal",
+          "detail": "Deep convolutional feature maps evaluated for localized alveolar infiltrates."
+        }
+      ],
+      "summary": "Chest X-ray spatial lung-field and deep CNN analysis completed. Cardiothoracic ratio (CTR): 0.36 [Normal]. Bilateral lung field optical symmetry: 84.1%. Costophrenic angles: Possible mild blunting. DenseNet Grad-CAM heatmap generated to visualize pulmonary aeration zones. Overall analysis confidence: 86.8%. AI-assisted clinical decision support.",
+      "recommendations": [
+        "Correlate cardiothoracic ratio with clinical blood pressure and fluid status.",
+        "Compare with prior chest radiographs to assess longitudinal stability.",
+        "Evaluate costophrenic angles in upright position if pleural effusion is clinically suspected.",
+        "Independent radiologist review recommended for definitive diagnostic confirmation."
+      ],
+      "output_image_url": "/uploads/xray_analysis_222c99d9774140dabefd561f45ed2800.png",
+      "processed_at": "2026-11-01T23:10:47.038040",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-01T23:10:47.038000"
+      }
+    },
+    {
+      "report_id": "6ae7c713ab5c6590be5fd803",
+      "_id": {
+        "$oid": "6ae7c713ab5c6590be5fd807"
+      },
+      "patient_id": "6ae7c6454756d8096e102538",
+      "type": "ECG",
+      "modality": "ECG",
+      "model_name": "ResNet-18 + OpenCV R-Peak Extraction Engine",
+      "model_type": "Waveform Contour Peak Detection + ResNet-18 Telemetry",
+      "confidence": 94.1,
+      "findings": [
+        {
+          "label": "Estimated Heart Rate",
+          "value": "78 BPM (Normal sinus rate: 60-100 BPM)",
+          "status": "Normal",
+          "detail": "Calculated from 13 detected R-wave depolarization peaks."
+        },
+        {
+          "label": "Rhythm Regularity",
+          "value": "Mild Sinus Arrhythmia (R-R variation: 17.6%)",
+          "status": "Borderline",
+          "detail": "Peak-to-peak interval dispersion evaluated across rhythm strip."
+        },
+        {
+          "label": "Mean R-R Interval",
+          "value": "769 ms",
+          "status": "Normal",
+          "detail": "Cardiac cycle interval measured between successive ventricular contractions."
+        },
+        {
+          "label": "QRS Complex Morphology",
+          "value": "Narrow QRS complex duration (~86 ms, Normal < 120 ms)",
+          "status": "Normal",
+          "detail": "Normal intraventricular conduction without broad bundle branch block pattern."
+        },
+        {
+          "label": "ST Segment Deviation",
+          "value": "Isoelectric baseline preserved, no acute elevation/depression",
+          "status": "Normal",
+          "detail": "Isoelectric baseline preserved; no acute ST-elevation or ST-depression pattern."
+        }
+      ],
+      "summary": "12-Lead ECG waveform contour extraction and rhythm analysis completed. Estimated heart rate: 78 BPM [Normal]. Rhythm pattern: Mild Sinus Arrhythmia (Mean R-R: 769 ms, variation: 17.6%). QRS morphology: Normal narrow complex (86 ms). ST-segment: Isoelectric. Annotated rhythm trace with R-peak markers saved to clinical records. Confidence: 94.1%. Non-diagnostic decision support.",
+      "recommendations": [
+        "Correlate automated rhythm analysis with clinical pulse rate and symptoms.",
+        "Review complete 12-lead voltage calibration (10 mm/mV, 25 mm/s) for manual interval confirmation.",
+        "Compare with baseline ECG if prior tracing is on file.",
+        "Perform formal cardiologist over-read for critical therapeutic decisions."
+      ],
+      "output_image_url": "/uploads/ecg_analysis_5d0c8fa433cf436386c13d6e47c8d5ef.png",
+      "processed_at": "2026-11-01T23:11:15.807125",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-01T23:11:15.807000"
+      }
+    },
+    {
+      "report_id": "6ae7c72bab5c6590be5fd80b",
+      "_id": {
+        "$oid": "6ae7c72bab5c6590be5fd80f"
+      },
+      "patient_id": "6ae7c6454756d8096e102538",
+      "type": "Blood Test",
+      "modality": "Blood Test",
+      "model_name": "Structured Extraction Engine",
+      "model_type": "Rule-based + Regex Parser",
+      "confidence": 26.2,
+      "findings": [
+        {
+          "label": "HbA1c",
+          "value": "5.0 %",
+          "status": "Normal",
+          "detail": "Reference: 4.0 - 5.6 %. Status: Normal."
+        }
+      ],
+      "summary": "Blood report analysis completed. Extracted 1/16 parameters. All extracted values within reference range. AI-assisted extraction \u2014 requires physician review.",
+      "recommendations": [
+        "All extracted values within normal reference ranges.",
+        "Verify extracted values against original report document."
+      ],
+      "output_image_url": "",
+      "processed_at": "2026-11-01T23:11:39.609635",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-01T23:11:39.609000"
+      }
+    },
+    {
+      "report_id": "6ae90d1f975e5d0e900786ff",
+      "_id": {
+        "$oid": "6ae90d20975e5d0e90078703"
+      },
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "type": "Brain MRI",
+      "modality": "Brain MRI",
+      "model_name": "BrainCNN Tissue Classifier",
+      "model_type": "CNN (Conv2d \u00d7 3 + FC) \u2014 PyTorch",
+      "confidence": 100.0,
+      "findings": [
+        {
+          "label": "Gray Matter Distribution",
+          "value": "46.0% of brain parenchyma",
+          "status": "Normal",
+          "detail": "Cerebral gray matter cortex volume segmented across brain slice."
+        },
+        {
+          "label": "White Matter Distribution",
+          "value": "28.6% of brain parenchyma",
+          "status": "Normal",
+          "detail": "Subcortical white matter tracts density evaluated."
+        },
+        {
+          "label": "CSF & Ventricular Volume",
+          "value": "25.4% of intracranial volume",
+          "status": "Normal",
+          "detail": "Ventricular and sulcal fluid spaces assessed for age-appropriate prominence."
+        },
+        {
+          "label": "Predominant Tissue Classification",
+          "value": "Gray Matter (BrainCNN Confidence: 100.0%)",
+          "status": "Normal",
+          "detail": "PyTorch CNN 3-class patch classifier evaluated across 4 region(s)."
+        },
+        {
+          "label": "Tissue Symmetry & Integrity",
+          "value": "Bilateral hemispheric symmetry preserved without mass effect",
+          "status": "Normal",
+          "detail": "No midline shift or focal parenchymal distortion detected."
+        }
+      ],
+      "summary": "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 4 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 46.0%, White Matter 28.6%, CSF 25.4%. Model classification confidence: 100.0%. Visual segmentation mask generated and stored.",
+      "recommendations": [
+        "Compare segmentation results with clinical presentation and patient history.",
+        "Evaluate ventricular and sulcal spaces for age-appropriate patterns.",
+        "Correlate findings with neurological examination and cognitive assessments.",
+        "Consider follow-up imaging if focal small-vessel ischemic changes are suspected."
+      ],
+      "output_image_url": "/uploads/mri_seg_3e65959b955f43a9b6b1e94483f523e7.png",
+      "processed_at": "2026-11-02T22:22:24.042603",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-02T22:22:24.042000"
+      }
+    },
+    {
+      "report_id": "6ae90d41975e5d0e90078707",
+      "_id": {
+        "$oid": "6ae90d42975e5d0e9007870b"
+      },
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "type": "X-ray",
+      "modality": "X-ray",
+      "model_name": "DenseNet-121 + Spatial Lung-Field Engine",
+      "model_type": "Deep CNN + OpenCV Spatial Thoracic Analysis",
+      "confidence": 87.3,
+      "findings": [
+        {
+          "label": "Cardiothoracic Ratio (CTR)",
+          "value": "0.36 (Normal <= 0.50)",
+          "status": "Normal",
+          "detail": "Cardiac transverse dimension measured at 378px relative to thoracic width 1309px."
+        },
+        {
+          "label": "Bilateral Lung Field Opacity & Symmetry",
+          "value": "Symmetry 86.5% (Left: 36.4%, Right: 42.1%)",
+          "status": "Normal",
+          "detail": "Bilateral hemithorax optical density evaluated for focal consolidation or asymmetry."
+        },
+        {
+          "label": "Costophrenic Angles Clarity",
+          "value": "Borderline Recess Blunting",
+          "status": "Borderline",
+          "detail": "Mild costophrenic sulcus blunting noted \u2014 correlate for minor pleural effusion"
+        },
+        {
+          "label": "Pulmonary Vascular Markings",
+          "value": "Normal branching pattern, no cephalization or hilar congestion",
+          "status": "Normal",
+          "detail": "Central pulmonary vasculature shows normal caliber without interstitial edema pattern."
+        },
+        {
+          "label": "Deep CNN Focal Activation",
+          "value": "DenseNet-121 Mean Activation: 0.176",
+          "status": "Normal",
+          "detail": "Deep convolutional feature maps evaluated for localized alveolar infiltrates."
+        }
+      ],
+      "summary": "Chest X-ray spatial lung-field and deep CNN analysis completed. Cardiothoracic ratio (CTR): 0.36 [Normal]. Bilateral lung field optical symmetry: 86.5%. Costophrenic angles: Possible mild blunting. DenseNet Grad-CAM heatmap generated to visualize pulmonary aeration zones. Overall analysis confidence: 87.3%. AI-assisted clinical decision support.",
+      "recommendations": [
+        "Correlate cardiothoracic ratio with clinical blood pressure and fluid status.",
+        "Compare with prior chest radiographs to assess longitudinal stability.",
+        "Evaluate costophrenic angles in upright position if pleural effusion is clinically suspected.",
+        "Independent radiologist review recommended for definitive diagnostic confirmation."
+      ],
+      "output_image_url": "/uploads/xray_analysis_8600d5fa98c04ef58b7b8b52f6de7ad2.png",
+      "processed_at": "2026-11-02T22:22:58.607901",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-02T22:22:58.607000"
+      }
+    },
+    {
+      "report_id": "6ae90e88975e5d0e9007870f",
+      "_id": {
+        "$oid": "6ae90e89975e5d0e90078713"
+      },
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "type": "X-ray",
+      "modality": "X-ray",
+      "model_name": "DenseNet-121 + Spatial Lung-Field Engine",
+      "model_type": "Deep CNN + OpenCV Spatial Thoracic Analysis",
+      "confidence": 88.1,
+      "findings": [
+        {
+          "label": "Cardiothoracic Ratio (CTR)",
+          "value": "0.42 (Normal <= 0.50)",
+          "status": "Normal",
+          "detail": "Cardiac transverse dimension measured at 758px relative to thoracic width 1798px."
+        },
+        {
+          "label": "Bilateral Lung Field Opacity & Symmetry",
+          "value": "Symmetry 90.5% (Left: 51.9%, Right: 47.0%)",
+          "status": "Normal",
+          "detail": "Bilateral hemithorax optical density evaluated for focal consolidation or asymmetry."
+        },
+        {
+          "label": "Costophrenic Angles Clarity",
+          "value": "Borderline Recess Blunting",
+          "status": "Borderline",
+          "detail": "Mild costophrenic sulcus blunting noted \u2014 correlate for minor pleural effusion"
+        },
+        {
+          "label": "Pulmonary Vascular Markings",
+          "value": "Normal branching pattern, no cephalization or hilar congestion",
+          "status": "Normal",
+          "detail": "Central pulmonary vasculature shows normal caliber without interstitial edema pattern."
+        },
+        {
+          "label": "Deep CNN Focal Activation",
+          "value": "DenseNet-121 Mean Activation: 0.293",
+          "status": "Normal",
+          "detail": "Deep convolutional feature maps evaluated for localized alveolar infiltrates."
+        }
+      ],
+      "summary": "Chest X-ray spatial lung-field and deep CNN analysis completed. Cardiothoracic ratio (CTR): 0.42 [Normal]. Bilateral lung field optical symmetry: 90.5%. Costophrenic angles: Possible mild blunting. DenseNet Grad-CAM heatmap generated to visualize pulmonary aeration zones. Overall analysis confidence: 88.1%. AI-assisted clinical decision support.",
+      "recommendations": [
+        "Correlate cardiothoracic ratio with clinical blood pressure and fluid status.",
+        "Compare with prior chest radiographs to assess longitudinal stability.",
+        "Evaluate costophrenic angles in upright position if pleural effusion is clinically suspected.",
+        "Independent radiologist review recommended for definitive diagnostic confirmation."
+      ],
+      "output_image_url": "/uploads/xray_analysis_16fa1e688e2b49dd987e967127850649.png",
+      "processed_at": "2026-11-02T22:28:25.661075",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-02T22:28:25.661000"
+      }
+    },
+    {
+      "report_id": "6ae90ed9975e5d0e90078717",
+      "_id": {
+        "$oid": "6ae90eda975e5d0e9007871b"
+      },
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "type": "ECG",
+      "modality": "ECG",
+      "model_name": "ResNet-18 + OpenCV R-Peak Extraction Engine",
+      "model_type": "Waveform Contour Peak Detection + ResNet-18 Telemetry",
+      "confidence": 93.8,
+      "findings": [
+        {
+          "label": "Estimated Heart Rate",
+          "value": "87 BPM (Normal sinus rate: 60-100 BPM)",
+          "status": "Normal",
+          "detail": "Calculated from 15 detected R-wave depolarization peaks."
+        },
+        {
+          "label": "Rhythm Regularity",
+          "value": "Irregular Rhythm / Arrhythmic Variation (R-R variation: 24.3%)",
+          "status": "Abnormal",
+          "detail": "Peak-to-peak interval dispersion evaluated across rhythm strip."
+        },
+        {
+          "label": "Mean R-R Interval",
+          "value": "690 ms",
+          "status": "Normal",
+          "detail": "Cardiac cycle interval measured between successive ventricular contractions."
+        },
+        {
+          "label": "QRS Complex Morphology",
+          "value": "Narrow QRS complex duration (~86 ms, Normal < 120 ms)",
+          "status": "Normal",
+          "detail": "Normal intraventricular conduction without broad bundle branch block pattern."
+        },
+        {
+          "label": "ST Segment Deviation",
+          "value": "Isoelectric baseline preserved, no acute elevation/depression",
+          "status": "Normal",
+          "detail": "Isoelectric baseline preserved; no acute ST-elevation or ST-depression pattern."
+        }
+      ],
+      "summary": "12-Lead ECG waveform contour extraction and rhythm analysis completed. Estimated heart rate: 87 BPM [Normal]. Rhythm pattern: Irregular Rhythm / Arrhythmic Variation (Mean R-R: 690 ms, variation: 24.3%). QRS morphology: Normal narrow complex (86 ms). ST-segment: Isoelectric. Annotated rhythm trace with R-peak markers saved to clinical records. Confidence: 93.8%. Non-diagnostic decision support.",
+      "recommendations": [
+        "Correlate automated rhythm analysis with clinical pulse rate and symptoms.",
+        "Review complete 12-lead voltage calibration (10 mm/mV, 25 mm/s) for manual interval confirmation.",
+        "Compare with baseline ECG if prior tracing is on file.",
+        "Perform formal cardiologist over-read for critical therapeutic decisions."
+      ],
+      "output_image_url": "/uploads/ecg_analysis_f6c2794010ed4871b7eab6ffd48b5373.png",
+      "processed_at": "2026-11-02T22:29:46.120761",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-02T22:29:46.120000"
+      }
+    },
+    {
+      "report_id": "6ae90eff975e5d0e9007871f",
+      "_id": {
+        "$oid": "6ae90eff975e5d0e90078723"
+      },
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "type": "Blood Test",
+      "modality": "Blood Test",
+      "model_name": "Structured Extraction Engine",
+      "model_type": "Rule-based + Regex Parser",
+      "confidence": 45.0,
+      "findings": [
+        {
+          "label": "Glucose (Random)",
+          "value": "115.0 mg/dL",
+          "status": "Normal",
+          "detail": "Reference: 70.0 - 140.0 mg/dL. Status: Normal."
+        },
+        {
+          "label": "HbA1c",
+          "value": "6.1 %",
+          "status": "Abnormal",
+          "detail": "Reference: 4.0 - 5.7 %. Status: High."
+        },
+        {
+          "label": "Total Cholesterol",
+          "value": "164.0 mg/dL",
+          "status": "Normal",
+          "detail": "Reference: 0.0 - 200.0 mg/dL. Status: Normal."
+        },
+        {
+          "label": "HDL Cholesterol",
+          "value": "81.0 mg/dL",
+          "status": "Normal",
+          "detail": "Reference: 40.0 - 200.0 mg/dL. Status: Normal."
+        }
+      ],
+      "summary": "Blood report analysis completed. Extracted 4/16 parameters. 1 value(s) outside reference range. AI-assisted extraction \u2014 requires physician review.",
+      "recommendations": [
+        "HbA1c is high (6.1 %) \u2014 clinical correlation recommended.",
+        "Verify extracted values against original report document."
+      ],
+      "output_image_url": "",
+      "processed_at": "2026-11-02T22:30:23.492247",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-02T22:30:23.492000"
+      }
+    },
+    {
+      "report_id": "6ae9613d6075d905311faf4f",
+      "_id": {
+        "$oid": "6ae9613d6075d905311faf53"
+      },
+      "patient_id": "6ae961206075d905311faf4e",
+      "type": "Brain MRI",
+      "modality": "Brain MRI",
+      "model_name": "BrainCNN Tissue Classifier",
+      "model_type": "CNN (Conv2d \u00d7 3 + FC) \u2014 PyTorch",
+      "confidence": 82.3,
+      "findings": [
+        {
+          "label": "Gray Matter Distribution",
+          "value": "45.8% of brain parenchyma",
+          "status": "Normal",
+          "detail": "Cerebral gray matter cortex volume segmented across brain slice."
+        },
+        {
+          "label": "White Matter Distribution",
+          "value": "29.2% of brain parenchyma",
+          "status": "Normal",
+          "detail": "Subcortical white matter tracts density evaluated."
+        },
+        {
+          "label": "CSF & Ventricular Volume",
+          "value": "25.0% of intracranial volume",
+          "status": "Normal",
+          "detail": "Ventricular and sulcal fluid spaces assessed for age-appropriate prominence."
+        },
+        {
+          "label": "Predominant Tissue Classification",
+          "value": "Gray Matter (BrainCNN Confidence: 82.3%)",
+          "status": "Normal",
+          "detail": "PyTorch CNN 3-class patch classifier evaluated across 9 region(s)."
+        },
+        {
+          "label": "Tissue Symmetry & Integrity",
+          "value": "Bilateral hemispheric symmetry preserved without mass effect",
+          "status": "Normal",
+          "detail": "No midline shift or focal parenchymal distortion detected."
+        }
+      ],
+      "summary": "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 9 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 45.8%, White Matter 29.2%, CSF 25.0%. Model classification confidence: 82.3%. Visual segmentation mask generated and stored.",
+      "recommendations": [
+        "Compare segmentation results with clinical presentation and patient history.",
+        "Evaluate ventricular and sulcal spaces for age-appropriate patterns.",
+        "Correlate findings with neurological examination and cognitive assessments.",
+        "Consider follow-up imaging if focal small-vessel ischemic changes are suspected."
+      ],
+      "output_image_url": "/uploads/mri_seg_bf23b0ed95674670b33b89dcb91bd034.png",
+      "processed_at": "2026-11-03T04:21:17.424450",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-03T04:21:17.424000"
+      }
+    },
+    {
+      "report_id": "6ae9615a6075d905311faf57",
+      "_id": {
+        "$oid": "6ae9615c6075d905311faf5b"
+      },
+      "patient_id": "6ae961206075d905311faf4e",
+      "type": "X-ray",
+      "modality": "X-ray",
+      "model_name": "DenseNet-121 + Spatial Lung-Field Engine",
+      "model_type": "Deep CNN + OpenCV Spatial Thoracic Analysis",
+      "confidence": 87.9,
+      "findings": [
+        {
+          "label": "Cardiothoracic Ratio (CTR)",
+          "value": "0.36 (Normal <= 0.50)",
+          "status": "Normal",
+          "detail": "Cardiac transverse dimension measured at 493px relative to thoracic width 2147px."
+        },
+        {
+          "label": "Bilateral Lung Field Opacity & Symmetry",
+          "value": "Symmetry 89.3% (Left: 44.2%, Right: 49.5%)",
+          "status": "Normal",
+          "detail": "Bilateral hemithorax optical density evaluated for focal consolidation or asymmetry."
+        },
+        {
+          "label": "Costophrenic Angles Clarity",
+          "value": "Borderline Recess Blunting",
+          "status": "Borderline",
+          "detail": "Mild costophrenic sulcus blunting noted \u2014 correlate for minor pleural effusion"
+        },
+        {
+          "label": "Pulmonary Vascular Markings",
+          "value": "Normal branching pattern, no cephalization or hilar congestion",
+          "status": "Normal",
+          "detail": "Central pulmonary vasculature shows normal caliber without interstitial edema pattern."
+        },
+        {
+          "label": "Deep CNN Focal Activation",
+          "value": "DenseNet-121 Mean Activation: 0.302",
+          "status": "Normal",
+          "detail": "Deep convolutional feature maps evaluated for localized alveolar infiltrates."
+        }
+      ],
+      "summary": "Chest X-ray spatial lung-field and deep CNN analysis completed. Cardiothoracic ratio (CTR): 0.36 [Normal]. Bilateral lung field optical symmetry: 89.3%. Costophrenic angles: Possible mild blunting. DenseNet Grad-CAM heatmap generated to visualize pulmonary aeration zones. Overall analysis confidence: 87.9%. AI-assisted clinical decision support.",
+      "recommendations": [
+        "Correlate cardiothoracic ratio with clinical blood pressure and fluid status.",
+        "Compare with prior chest radiographs to assess longitudinal stability.",
+        "Evaluate costophrenic angles in upright position if pleural effusion is clinically suspected.",
+        "Independent radiologist review recommended for definitive diagnostic confirmation."
+      ],
+      "output_image_url": "/uploads/xray_analysis_58640371cd81489fb73948d43490fdd6.png",
+      "processed_at": "2026-11-03T04:21:48.127521",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-03T04:21:48.127000"
+      }
+    },
+    {
+      "report_id": "6ae9617e6075d905311faf5f",
+      "_id": {
+        "$oid": "6ae9617e6075d905311faf63"
+      },
+      "patient_id": "6ae961206075d905311faf4e",
+      "type": "ECG",
+      "modality": "ECG",
+      "model_name": "ResNet-18 + OpenCV R-Peak Extraction Engine",
+      "model_type": "Waveform Contour Peak Detection + ResNet-18 Telemetry",
+      "confidence": 93.0,
+      "findings": [
+        {
+          "label": "Estimated Heart Rate",
+          "value": "75 BPM (Normal sinus rate: 60-100 BPM)",
+          "status": "Normal",
+          "detail": "Calculated from 12 detected R-wave depolarization peaks."
+        },
+        {
+          "label": "Rhythm Regularity",
+          "value": "Irregular Rhythm / Arrhythmic Variation (R-R variation: 40.3%)",
+          "status": "Abnormal",
+          "detail": "Peak-to-peak interval dispersion evaluated across rhythm strip."
+        },
+        {
+          "label": "Mean R-R Interval",
+          "value": "800 ms",
+          "status": "Normal",
+          "detail": "Cardiac cycle interval measured between successive ventricular contractions."
+        },
+        {
+          "label": "QRS Complex Morphology",
+          "value": "Narrow QRS complex duration (~86 ms, Normal < 120 ms)",
+          "status": "Normal",
+          "detail": "Normal intraventricular conduction without broad bundle branch block pattern."
+        },
+        {
+          "label": "ST Segment Deviation",
+          "value": "Isoelectric baseline preserved, no acute elevation/depression",
+          "status": "Normal",
+          "detail": "Isoelectric baseline preserved; no acute ST-elevation or ST-depression pattern."
+        }
+      ],
+      "summary": "12-Lead ECG waveform contour extraction and rhythm analysis completed. Estimated heart rate: 75 BPM [Normal]. Rhythm pattern: Irregular Rhythm / Arrhythmic Variation (Mean R-R: 800 ms, variation: 40.3%). QRS morphology: Normal narrow complex (86 ms). ST-segment: Isoelectric. Annotated rhythm trace with R-peak markers saved to clinical records. Confidence: 93.0%. Non-diagnostic decision support.",
+      "recommendations": [
+        "Correlate automated rhythm analysis with clinical pulse rate and symptoms.",
+        "Review complete 12-lead voltage calibration (10 mm/mV, 25 mm/s) for manual interval confirmation.",
+        "Compare with baseline ECG if prior tracing is on file.",
+        "Perform formal cardiologist over-read for critical therapeutic decisions."
+      ],
+      "output_image_url": "/uploads/ecg_analysis_a01e9effe80946f3a9db98e2711c38ae.png",
+      "processed_at": "2026-11-03T04:22:22.815614",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-03T04:22:22.815000"
+      }
+    },
+    {
+      "report_id": "6ae961b86075d905311faf67",
+      "_id": {
+        "$oid": "6ae961b86075d905311faf6b"
+      },
+      "patient_id": "6ae961206075d905311faf4e",
+      "type": "Blood Test",
+      "modality": "Blood Test",
+      "model_name": "Structured Extraction Engine",
+      "model_type": "Rule-based + Regex Parser",
+      "confidence": 45.0,
+      "findings": [
+        {
+          "label": "Glucose (Random)",
+          "value": "115.0 mg/dL",
+          "status": "Normal",
+          "detail": "Reference: 70.0 - 140.0 mg/dL. Status: Normal."
+        },
+        {
+          "label": "HbA1c",
+          "value": "6.1 %",
+          "status": "Abnormal",
+          "detail": "Reference: 4.0 - 5.7 %. Status: High."
+        },
+        {
+          "label": "Total Cholesterol",
+          "value": "164.0 mg/dL",
+          "status": "Normal",
+          "detail": "Reference: 0.0 - 200.0 mg/dL. Status: Normal."
+        },
+        {
+          "label": "HDL Cholesterol",
+          "value": "81.0 mg/dL",
+          "status": "Normal",
+          "detail": "Reference: 40.0 - 200.0 mg/dL. Status: Normal."
+        }
+      ],
+      "summary": "Blood report analysis completed. Extracted 4/16 parameters. 1 value(s) outside reference range. AI-assisted extraction \u2014 requires physician review.",
+      "recommendations": [
+        "HbA1c is high (6.1 %) \u2014 clinical correlation recommended.",
+        "Verify extracted values against original report document."
+      ],
+      "output_image_url": "",
+      "processed_at": "2026-11-03T04:23:20.724366",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-03T04:23:20.724000"
+      }
+    },
+    {
+      "report_id": "6ae96b3e9b49016c38d00b62",
+      "_id": {
+        "$oid": "6ae96b3e9b49016c38d00b66"
+      },
+      "patient_id": "6ae961206075d905311faf4e",
+      "type": "Brain MRI",
+      "modality": "Brain MRI",
+      "model_name": "BrainCNN Tissue Classifier",
+      "model_type": "CNN (Conv2d \u00d7 3 + FC) \u2014 PyTorch",
+      "confidence": 82.3,
+      "findings": [
+        {
+          "label": "Gray Matter Distribution",
+          "value": "45.8% of brain parenchyma",
+          "status": "Normal",
+          "detail": "Cerebral gray matter cortex volume segmented across brain slice."
+        },
+        {
+          "label": "White Matter Distribution",
+          "value": "29.2% of brain parenchyma",
+          "status": "Normal",
+          "detail": "Subcortical white matter tracts density evaluated."
+        },
+        {
+          "label": "CSF & Ventricular Volume",
+          "value": "25.0% of intracranial volume",
+          "status": "Normal",
+          "detail": "Ventricular and sulcal fluid spaces assessed for age-appropriate prominence."
+        },
+        {
+          "label": "Predominant Tissue Classification",
+          "value": "Gray Matter (BrainCNN Confidence: 82.3%)",
+          "status": "Normal",
+          "detail": "PyTorch CNN 3-class patch classifier evaluated across 9 region(s)."
+        },
+        {
+          "label": "Tissue Symmetry & Integrity",
+          "value": "Bilateral hemispheric symmetry preserved without mass effect",
+          "status": "Normal",
+          "detail": "No midline shift or focal parenchymal distortion detected."
+        }
+      ],
+      "summary": "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 9 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 45.8%, White Matter 29.2%, CSF 25.0%. Model classification confidence: 82.3%. Visual segmentation mask generated and stored.",
+      "recommendations": [
+        "Compare segmentation results with clinical presentation and patient history.",
+        "Evaluate ventricular and sulcal spaces for age-appropriate patterns.",
+        "Correlate findings with neurological examination and cognitive assessments.",
+        "Consider follow-up imaging if focal small-vessel ischemic changes are suspected."
+      ],
+      "output_image_url": "/uploads/mri_seg_b10a7fabd8c64881b79e6bb01b7bcccf.png",
+      "processed_at": "2026-11-03T05:03:58.141963",
+      "status": "Completed",
+      "error_message": "",
+      "created_at": {
+        "$date": "2026-11-03T05:03:58.141000"
+      }
+    }
+  ],
+  "lab_values": [
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c72bab5c6590be5fd80b",
+      "name": "HbA1c",
+      "_id": {
+        "$oid": "6ae7c72bab5c6590be5fd810"
+      },
+      "value": 5.0,
+      "unit": "%",
+      "reference_range": "4.0 - 5.6 %",
+      "status": "Normal",
+      "extraction_note": ""
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90eff975e5d0e9007871f",
+      "name": "Glucose (Random)",
+      "_id": {
+        "$oid": "6ae90eff975e5d0e90078724"
+      },
+      "value": 115.0,
+      "unit": "mg/dL",
+      "reference_range": "70.0 - 140.0 mg/dL",
+      "status": "Normal",
+      "extraction_note": ""
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90eff975e5d0e9007871f",
+      "name": "HbA1c",
+      "_id": {
+        "$oid": "6ae90eff975e5d0e90078725"
+      },
+      "value": 6.1,
+      "unit": "%",
+      "reference_range": "4.0 - 5.7 %",
+      "status": "High",
+      "extraction_note": ""
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90eff975e5d0e9007871f",
+      "name": "Total Cholesterol",
+      "_id": {
+        "$oid": "6ae90eff975e5d0e90078726"
+      },
+      "value": 164.0,
+      "unit": "mg/dL",
+      "reference_range": "0.0 - 200.0 mg/dL",
+      "status": "Normal",
+      "extraction_note": ""
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90eff975e5d0e9007871f",
+      "name": "HDL Cholesterol",
+      "_id": {
+        "$oid": "6ae90eff975e5d0e90078727"
+      },
+      "value": 81.0,
+      "unit": "mg/dL",
+      "reference_range": "40.0 - 200.0 mg/dL",
+      "status": "Normal",
+      "extraction_note": ""
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae961b86075d905311faf67",
+      "name": "Glucose (Random)",
+      "_id": {
+        "$oid": "6ae961b86075d905311faf6c"
+      },
+      "value": 115.0,
+      "unit": "mg/dL",
+      "reference_range": "70.0 - 140.0 mg/dL",
+      "status": "Normal",
+      "extraction_note": ""
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae961b86075d905311faf67",
+      "name": "HbA1c",
+      "_id": {
+        "$oid": "6ae961b86075d905311faf6d"
+      },
+      "value": 6.1,
+      "unit": "%",
+      "reference_range": "4.0 - 5.7 %",
+      "status": "High",
+      "extraction_note": ""
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae961b86075d905311faf67",
+      "name": "Total Cholesterol",
+      "_id": {
+        "$oid": "6ae961b86075d905311faf6e"
+      },
+      "value": 164.0,
+      "unit": "mg/dL",
+      "reference_range": "0.0 - 200.0 mg/dL",
+      "status": "Normal",
+      "extraction_note": ""
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae961b86075d905311faf67",
+      "name": "HDL Cholesterol",
+      "_id": {
+        "$oid": "6ae961b86075d905311faf6f"
+      },
+      "value": 81.0,
+      "unit": "mg/dL",
+      "reference_range": "40.0 - 200.0 mg/dL",
+      "status": "Normal",
+      "extraction_note": ""
+    }
+  ],
+  "vital_signs": [
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "date": "2026-09-01",
+      "blood_pressure": "142/90",
+      "heart_rate": 78,
+      "temperature": 98.4,
+      "oxygen_saturation": 97,
+      "glucose": 156,
+      "weight": 82,
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102510"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "date": "2026-08-15",
+      "blood_pressure": "138/88",
+      "heart_rate": 82,
+      "temperature": 98.6,
+      "oxygen_saturation": 96,
+      "glucose": 148,
+      "weight": 82.5,
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102511"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "date": "2026-08-01",
+      "blood_pressure": "145/92",
+      "heart_rate": 85,
+      "temperature": 98.2,
+      "oxygen_saturation": 97,
+      "glucose": 162,
+      "weight": 83,
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102512"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "date": "2026-07-15",
+      "blood_pressure": "140/89",
+      "heart_rate": 80,
+      "temperature": 98.5,
+      "oxygen_saturation": 98,
+      "glucose": 145,
+      "weight": 83.2,
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102513"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "date": "2026-07-01",
+      "blood_pressure": "136/86",
+      "heart_rate": 76,
+      "temperature": 98.4,
+      "oxygen_saturation": 97,
+      "glucose": 140,
+      "weight": 82.8,
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102514"
+      }
+    },
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "date": "2026-06-15",
+      "blood_pressure": "148/94",
+      "heart_rate": 88,
+      "temperature": 98.7,
+      "oxygen_saturation": 95,
+      "glucose": 170,
+      "weight": 84,
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102515"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "blood_pressure": "120/80",
+      "heart_rate": 72,
+      "oxygen_saturation": 98.0,
+      "glucose": 100.0,
+      "temperature": 98.6,
+      "weight": 70.0,
+      "bmi": 23.5,
+      "notes": "",
+      "recorded_by": "Dr. Amit Kumar",
+      "date": "2026-11-01",
+      "recorded_at": "2026-11-01 23:12 UTC",
+      "created_at": "2026-11-01T23:12:34.080146",
+      "_id": {
+        "$oid": "6ae7c762ab5c6590be5fd814"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "blood_pressure": "130/90",
+      "heart_rate": 77,
+      "oxygen_saturation": 94.0,
+      "glucose": 100.2,
+      "temperature": 99.6,
+      "weight": 70.0,
+      "bmi": 23.5,
+      "notes": "",
+      "recorded_by": "Dr. Amit Kumar",
+      "date": "2026-11-01",
+      "recorded_at": "2026-11-01 23:14 UTC",
+      "created_at": "2026-11-01T23:14:12.561712",
+      "_id": {
+        "$oid": "6ae7c7c4ab5c6590be5fd817"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "blood_pressure": "120/80",
+      "heart_rate": 72,
+      "oxygen_saturation": 98.0,
+      "glucose": 100.0,
+      "temperature": 98.6,
+      "weight": 70.0,
+      "bmi": 23.5,
+      "notes": "",
+      "recorded_by": "Dr. Mahesh Singh",
+      "date": "2026-11-02",
+      "recorded_at": "2026-11-02 22:37 UTC",
+      "created_at": "2026-11-02T22:37:16.744437",
+      "_id": {
+        "$oid": "6ae9109c975e5d0e9007872c"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "blood_pressure": "120/80",
+      "heart_rate": 72,
+      "oxygen_saturation": 98.0,
+      "glucose": 100.0,
+      "temperature": 98.6,
+      "weight": 70.0,
+      "bmi": 23.5,
+      "notes": "",
+      "recorded_by": "Dr. Neha Sharma",
+      "date": "2026-11-03",
+      "recorded_at": "2026-11-03 04:29 UTC",
+      "created_at": "2026-11-03T04:29:13.347742",
+      "_id": {
+        "$oid": "6ae963196075d905311faf78"
+      }
+    }
+  ],
+  "research_evidence": [
+    {
+      "title": "Small Vessel Disease and Cognitive Impairment: A Systematic Review and Meta-Analysis",
+      "authors": "Pantoni L, et al.",
+      "journal": "The Lancet Neurology",
+      "year": 2023,
+      "doi": "10.1016/S1474-4422(23)00123-4",
+      "relevance": "Directly relevant to MRI findings of small vessel ischemic changes and cognitive decline",
+      "summary": "Meta-analysis of 42 studies demonstrating strong association between cerebral small vessel disease markers on MRI and risk of cognitive decline.",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102525"
+      }
+    },
+    {
+      "title": "Diabetes, Cognitive Decline, and Alzheimer Disease: ADA-AAN Joint Statement",
+      "authors": "American Diabetes Association & American Academy of Neurology",
+      "journal": "Neurology",
+      "year": 2024,
+      "doi": "10.1212/WNL.0000000000201234",
+      "relevance": "Clinical guideline linking diabetes management with cognitive outcomes",
+      "summary": "Joint statement recommending cognitive screening in diabetic patients over 65.",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102526"
+      }
+    },
+    {
+      "title": "Blood Pressure Control and Dementia Risk: SPRINT MIND Trial Extended Follow-up",
+      "authors": "Williamson JD, et al.",
+      "journal": "JAMA",
+      "year": 2023,
+      "doi": "10.1001/jama.2023.4567",
+      "relevance": "Supports aggressive blood pressure management in patient with hypertension and cognitive risk",
+      "summary": "Extended follow-up showing intensive blood pressure lowering reduced risk of mild cognitive impairment by 19%.",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102527"
+      }
+    },
+    {
+      "title": "LVH Regression with Antihypertensive Therapy: Meta-Analysis of ECG and Echo Studies",
+      "authors": "Fagard RH, et al.",
+      "journal": "European Heart Journal",
+      "year": 2022,
+      "doi": "10.1093/eurheartj/ehac789",
+      "relevance": "Supports ECG finding of mild LVH and management approach",
+      "summary": "Meta-analysis showing LVH regression is achievable with adequate blood pressure control.",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102528"
+      }
+    },
+    {
+      "title": "Donepezil for Mild Cognitive Impairment: Updated Cochrane Review",
+      "authors": "Birks JS, Harvey RJ",
+      "journal": "Cochrane Database of Systematic Reviews",
+      "year": 2024,
+      "doi": "10.1002/14651858.CD001190.pub4",
+      "relevance": "Supports current prescription of donepezil for MCI",
+      "summary": "Updated review indicating moderate evidence for donepezil in slowing cognitive decline in MCI patients.",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102529"
+      }
+    },
+    {
+      "title": "Statin Therapy and Cognitive Function: A Systematic Review",
+      "authors": "McGuinness B, et al.",
+      "journal": "Annals of Internal Medicine",
+      "year": 2023,
+      "doi": "10.7326/M23-0456",
+      "relevance": "Relevant to atorvastatin prescription and cognitive impairment concerns",
+      "summary": "Systematic review found no evidence of cognitive harm from statin therapy.",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10252a"
+      }
+    }
+  ],
+  "ai_patient_briefs": [
+    {
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "patient_info": {
+        "name": "Rajesh Kumar",
+        "age": 45,
+        "gender": "Male",
+        "blood_group": "B+",
+        "conditions": [
+          "Type 2 Diabetes",
+          "Hypertension",
+          "Mild Cognitive Impairment"
+        ]
+      },
+      "symptoms": [
+        "Persistent headaches",
+        "Memory concerns",
+        "Short-term memory deficits"
+      ],
+      "current_reports": [
+        {
+          "type": "Brain MRI Analysis",
+          "date": "2026-09-01",
+          "key_findings": [
+            "Gray Matter Distribution: 44.6% of brain parenchyma [Normal]",
+            "White Matter Distribution: 29.9% of brain parenchyma [Normal]",
+            "CSF & Ventricular Volume: 25.6% of intracranial volume [Normal]",
+            "Predominant Tissue Classification: Gray Matter (BrainCNN Confidence: 88.3%) [Normal]",
+            "Tissue Symmetry & Integrity: Bilateral hemispheric symmetry preserved without mass effect [Normal]"
+          ]
+        },
+        {
+          "type": "Medical Report Analysis",
+          "date": "2026-09-01",
+          "key_findings": [
+            "Cognitive Assessment: MMSE score 24/30 \u2014 mild impairment [Abnormal]",
+            "Memory Function: Short-term memory deficits noted [Abnormal]",
+            "Motor Function: No focal neurological deficits [Normal]",
+            "Cranial Nerves: Intact bilateral [Normal]"
+          ]
+        }
+      ],
+      "mri_findings": [
+        "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 4 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 44.6%, White Matter 29.9%, CSF 25.6%. Model classification confidence: 88.3%.",
+        "Gray Matter Distribution: 44.6% of brain parenchyma [Normal]",
+        "White Matter Distribution: 29.9% of brain parenchyma [Normal]",
+        "CSF & Ventricular Volume: 25.6% of intracranial volume [Normal]",
+        "Predominant Tissue Classification: Gray Matter (BrainCNN Confidence: 88.3%) [Normal]",
+        "Tissue Symmetry & Integrity: Bilateral hemispheric symmetry preserved without mass effect [Normal]"
+      ],
+      "xray_findings": [
+        "No X-ray data available."
+      ],
+      "ecg_findings": [
+        "No ECG data available."
+      ],
+      "blood_report_abnormalities": [
+        "No blood test data available."
+      ],
+      "previous_prescriptions": [
+        "2026-08-28: Metformin, Amlodipine, Atorvastatin, Donepezil (Type 2 Diabetes, Hypertension, Mild Cognitive Impairment)",
+        "2026-06-15: Metformin, Amlodipine, Atorvastatin (Type 2 Diabetes, Hypertension)"
+      ],
+      "important_observations": [
+        "Blood Pressure: 142/90 mmHg (above target for diabetic patients)",
+        "Blood Glucose: 156 mg/dL (elevated)",
+        "Cognitive Assessment: MMSE score 24/30 \u2014 mild impairment",
+        "Memory Function: Short-term memory deficits noted"
+      ],
+      "generated_at": "2026-11-01T23:26:26.797155",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10252b"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "_id": {
+        "$oid": "6ae7c95efdcc5c9d80b8842f"
+      },
+      "patient_info": {
+        "name": "Abhimanyu",
+        "age": 40,
+        "gender": "Male",
+        "blood_group": "A+",
+        "conditions": []
+      },
+      "symptoms": [],
+      "current_reports": [
+        {
+          "type": "Blood Test",
+          "date": "2026-11-01",
+          "key_findings": [
+            "HbA1c: 5.0 % (Normal)"
+          ]
+        },
+        {
+          "type": "ECG",
+          "date": "2026-11-01",
+          "key_findings": [
+            "Estimated Heart Rate: 78 BPM (Normal)",
+            "Rhythm Regularity: Mild Sinus Arrhythmia (R-R variation: 17.6%) (Borderline)",
+            "Mean R-R Interval: 769 ms (Normal)",
+            "QRS Complex Morphology: Narrow QRS complex duration (~86 ms, Normal < 120 ms) (Normal)",
+            "ST Segment Deviation: Isoelectric baseline preserved, no acute elevation/depression (Normal)"
+          ]
+        },
+        {
+          "type": "X-ray",
+          "date": "2026-11-01",
+          "key_findings": [
+            "Cardiothoracic Ratio (CTR): 0.36 (Normal)",
+            "Bilateral Lung Field Opacity & Symmetry: Symmetry 84.1% (Left: 66.1%, Right: 55.6%) (Borderline)",
+            "Costophrenic Angles Clarity: Borderline Recess Blunting (Borderline)",
+            "Pulmonary Vascular Markings: Normal branching pattern, no cephalization or hilar congestion (Normal)",
+            "Deep CNN Focal Activation: DenseNet-121 Mean Activation: 0.274 (Normal)"
+          ]
+        },
+        {
+          "type": "Brain MRI",
+          "date": "2026-11-01",
+          "key_findings": [
+            "Gray Matter Distribution: 45.0% of brain parenchyma (Normal)",
+            "White Matter Distribution: 29.8% of brain parenchyma (Normal)",
+            "CSF & Ventricular Volume: 25.2% of intracranial volume (Normal)",
+            "Predominant Tissue Classification: Gray Matter (BrainCNN Confidence: 85.0%) (Normal)",
+            "Tissue Symmetry & Integrity: Bilateral hemispheric symmetry preserved without mass effect (Normal)"
+          ]
+        }
+      ],
+      "mri_findings": [
+        "Gray Matter Distribution: 45.0% of brain parenchyma (Normal)",
+        "White Matter Distribution: 29.8% of brain parenchyma (Normal)",
+        "CSF & Ventricular Volume: 25.2% of intracranial volume (Normal)",
+        "Predominant Tissue Classification: Gray Matter (BrainCNN Confidence: 85.0%) (Normal)",
+        "Tissue Symmetry & Integrity: Bilateral hemispheric symmetry preserved without mass effect (Normal)"
+      ],
+      "xray_findings": [
+        "Cardiothoracic Ratio (CTR): 0.36 (Normal)",
+        "Bilateral Lung Field Opacity & Symmetry: Symmetry 84.1% (Left: 66.1%, Right: 55.6%) (Borderline)",
+        "Costophrenic Angles Clarity: Borderline Recess Blunting (Borderline)",
+        "Pulmonary Vascular Markings: Normal branching pattern, no cephalization or hilar congestion (Normal)",
+        "Deep CNN Focal Activation: DenseNet-121 Mean Activation: 0.274 (Normal)"
+      ],
+      "ecg_findings": [
+        "Estimated Heart Rate: 78 BPM (Normal sinus rate: 60-100 BPM) (Normal) [Source 1: Ecg Basics]",
+        "Rhythm Regularity: Mild Sinus Arrhythmia (R-R variation: 17.6%) (Borderline)",
+        "Mean R-R Interval: 769 ms (Normal)",
+        "QRS Complex Morphology: Narrow QRS complex duration (~86 ms, Normal < 120 ms) (Normal) [Source 1: Ecg Basics]",
+        "ST Segment Deviation: Isoelectric baseline preserved, no acute elevation/depression (Normal)"
+      ],
+      "blood_report_abnormalities": [
+        "HbA1c: 5.0 % (Normal) \u2014 Reference: 4.0 - 5.6 %. Status: Normal."
+      ],
+      "previous_prescriptions": [],
+      "important_observations": [
+        "Mild Sinus Arrhythmia (R-R variation: 17.6%) noted on ECG, which is classified as borderline.",
+        "Bilateral Lung Field Opacity & Symmetry is 84.1% (Left: 66.1%, Right: 55.6%), classified as borderline.",
+        "Borderline Recess Blunting noted in Costophrenic Angles Clarity on X-ray, which may suggest minor pleural effusion [Source 5: Chest Xray Guide]."
+      ],
+      "generated_at": "2026-11-01T23:26:44.944398"
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "_id": {
+        "$oid": "6ae894f3448ebf3172f7ec64"
+      },
+      "patient_info": {
+        "name": "Rahul kumar",
+        "age": 19,
+        "gender": "Male",
+        "blood_group": "B+",
+        "conditions": []
+      },
+      "symptoms": [],
+      "current_reports": [
+        {
+          "type": "Brain MRI",
+          "date": "2026-11-02",
+          "key_findings": [
+            "Gray Matter Distribution: 46.0% of brain parenchyma [Normal]",
+            "White Matter Distribution: 28.6% of brain parenchyma [Normal]",
+            "CSF & Ventricular Volume: 25.4% of intracranial volume [Normal]",
+            "Predominant Tissue Classification: Gray Matter (BrainCNN Confidence: 100.0%) [Normal]",
+            "Tissue Symmetry & Integrity: Bilateral hemispheric symmetry preserved without mass effect [Normal]"
+          ]
+        },
+        {
+          "type": "X-ray",
+          "date": "2026-11-02",
+          "key_findings": [
+            "Cardiothoracic Ratio (CTR): 0.36 (Normal <= 0.50) [Normal]",
+            "Bilateral Lung Field Opacity & Symmetry: Symmetry 86.5% (Left: 36.4%, Right: 42.1%) [Normal]",
+            "Costophrenic Angles Clarity: Borderline Recess Blunting [Borderline]",
+            "Pulmonary Vascular Markings: Normal branching pattern, no cephalization or hilar congestion [Normal]",
+            "Deep CNN Focal Activation: DenseNet-121 Mean Activation: 0.176 [Normal]"
+          ]
+        },
+        {
+          "type": "X-ray",
+          "date": "2026-11-02",
+          "key_findings": [
+            "Cardiothoracic Ratio (CTR): 0.42 (Normal <= 0.50) [Normal]",
+            "Bilateral Lung Field Opacity & Symmetry: Symmetry 90.5% (Left: 51.9%, Right: 47.0%) [Normal]",
+            "Costophrenic Angles Clarity: Borderline Recess Blunting [Borderline]",
+            "Pulmonary Vascular Markings: Normal branching pattern, no cephalization or hilar congestion [Normal]",
+            "Deep CNN Focal Activation: DenseNet-121 Mean Activation: 0.293 [Normal]"
+          ]
+        },
+        {
+          "type": "ECG",
+          "date": "2026-11-02",
+          "key_findings": [
+            "Estimated Heart Rate: 87 BPM (Normal sinus rate: 60-100 BPM) [Normal]",
+            "Rhythm Regularity: Irregular Rhythm / Arrhythmic Variation (R-R variation: 24.3%) [Abnormal]",
+            "Mean R-R Interval: 690 ms [Normal]",
+            "QRS Complex Morphology: Narrow QRS complex duration (~86 ms, Normal < 120 ms) [Normal]",
+            "ST Segment Deviation: Isoelectric baseline preserved, no acute elevation/depression [Normal]"
+          ]
+        },
+        {
+          "type": "Blood Test",
+          "date": "2026-11-02",
+          "key_findings": [
+            "Glucose (Random): 115.0 mg/dL [Normal]",
+            "HbA1c: 6.1 % [Abnormal]",
+            "Total Cholesterol: 164.0 mg/dL [Normal]",
+            "HDL Cholesterol: 81.0 mg/dL [Normal]"
+          ]
+        }
+      ],
+      "mri_findings": [
+        "Gray Matter Distribution: 46.0% of brain parenchyma [Normal]",
+        "White Matter Distribution: 28.6% of brain parenchyma [Normal]",
+        "CSF & Ventricular Volume: 25.4% of intracranial volume [Normal]",
+        "Predominant Tissue Classification: Gray Matter (BrainCNN Confidence: 100.0%) [Normal]",
+        "Tissue Symmetry & Integrity: Bilateral hemispheric symmetry preserved without mass effect [Normal]"
+      ],
+      "xray_findings": [
+        "Cardiothoracic Ratio (CTR): 0.42 (Normal <= 0.50) [Normal]",
+        "Bilateral Lung Field Opacity & Symmetry: Symmetry 90.5% (Left: 51.9%, Right: 47.0%) [Normal]",
+        "Costophrenic Angles Clarity: Borderline Recess Blunting [Borderline]",
+        "Pulmonary Vascular Markings: Normal branching pattern, no cephalization or hilar congestion [Normal]",
+        "Deep CNN Focal Activation: DenseNet-121 Mean Activation: 0.293 [Normal]",
+        "Cardiothoracic Ratio (CTR): 0.36 (Normal <= 0.50) [Normal]",
+        "Bilateral Lung Field Opacity & Symmetry: Symmetry 86.5% (Left: 36.4%, Right: 42.1%) [Normal]",
+        "Costophrenic Angles Clarity: Borderline Recess Blunting [Borderline]",
+        "Pulmonary Vascular Markings: Normal branching pattern, no cephalization or hilar congestion [Normal]",
+        "Deep CNN Focal Activation: DenseNet-121 Mean Activation: 0.176 [Normal]"
+      ],
+      "ecg_findings": [
+        "Estimated Heart Rate: 87 BPM (Normal sinus rate: 60-100 BPM) [Normal]",
+        "Rhythm Regularity: Irregular Rhythm / Arrhythmic Variation (R-R variation: 24.3%) [Abnormal]",
+        "Mean R-R Interval: 690 ms [Normal]",
+        "QRS Complex Morphology: Narrow QRS complex duration (~86 ms, Normal < 120 ms) [Normal]",
+        "ST Segment Deviation: Isoelectric baseline preserved, no acute elevation/depression [Normal]"
+      ],
+      "blood_report_abnormalities": [
+        "Glucose (Random): 115.0 mg/dL [Normal]",
+        "HbA1c: 6.1 % [Abnormal]",
+        "Total Cholesterol: 164.0 mg/dL [Normal]",
+        "HDL Cholesterol: 81.0 mg/dL [Normal]"
+      ],
+      "previous_prescriptions": [],
+      "important_observations": [
+        "HbA1c: 6.1 % (Reference: 4.0 - 5.7 %) [High]",
+        "ECG Rhythm Regularity: Irregular Rhythm / Arrhythmic Variation (R-R variation: 24.3%) [Abnormal]",
+        "X-ray Costophrenic Angles Clarity: Borderline Recess Blunting [Borderline]"
+      ],
+      "generated_at": "2026-11-02T22:32:56.382206"
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "_id": {
+        "$oid": "6ae963286075d905311faf7c"
+      },
+      "patient_info": {
+        "name": "Sumit Kumar",
+        "age": 23,
+        "gender": "Male",
+        "blood_group": "B+",
+        "conditions": [
+          "Pre-diabetes"
+        ]
+      },
+      "symptoms": [
+        "No symptoms data available."
+      ],
+      "current_reports": [
+        {
+          "type": "Brain MRI",
+          "date": "2026-11-03",
+          "key_findings": [
+            "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 9 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 45.8%, White Matter 29.2%, CSF 25.0%. Model classification confidence: 82.3%. Visual segmentation mask generated and stored."
+          ]
+        },
+        {
+          "type": "X-ray",
+          "date": "2026-11-03",
+          "key_findings": [
+            "Costophrenic Angles Clarity"
+          ]
+        },
+        {
+          "type": "ECG",
+          "date": "2026-11-03",
+          "key_findings": [
+            "Rhythm Regularity"
+          ]
+        },
+        {
+          "type": "Blood Test",
+          "date": "2026-11-03",
+          "key_findings": [
+            "HbA1c"
+          ]
+        },
+        {
+          "type": "Brain MRI",
+          "date": "2026-11-03",
+          "key_findings": [
+            "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 9 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 45.8%, White Matter 29.2%, CSF 25.0%. Model classification confidence: 82.3%. Visual segmentation mask generated and stored."
+          ]
+        }
+      ],
+      "mri_findings": [
+        "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 9 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 45.8%, White Matter 29.2%, CSF 25.0%. Model classification confidence: 82.3%. Visual segmentation mask generated and stored.",
+        "Gray Matter Distribution: 45.8% of brain parenchyma \u2014 Cerebral gray matter cortex volume segmented across brain slice.",
+        "White Matter Distribution: 29.2% of brain parenchyma \u2014 Subcortical white matter tracts density evaluated.",
+        "CSF & Ventricular Volume: 25.0% of intracranial volume \u2014 Ventricular and sulcal fluid spaces assessed for age-appropriate prominence.",
+        "Predominant Tissue Classification: Gray Matter (BrainCNN Confidence: 82.3%) \u2014 PyTorch CNN 3-class patch classifier evaluated across 9 region(s).",
+        "Tissue Symmetry & Integrity: Bilateral hemispheric symmetry preserved without mass effect \u2014 No midline shift or focal parenchymal distortion detected.",
+        "Brain MRI tensor tissue segmentation completed via PyTorch BrainCNN. Analyzed intracranial volume across 9 patch region(s) at 128\u00d7128 resolution. Predominant tissue: Gray Matter. Tissue proportions: Gray Matter 45.8%, White Matter 29.2%, CSF 25.0%. Model classification confidence: 82.3%. Visual segmentation mask generated and stored.",
+        "Gray Matter Distribution: 45.8% of brain parenchyma \u2014 Cerebral gray matter cortex volume segmented across brain slice.",
+        "White Matter Distribution: 29.2% of brain parenchyma \u2014 Subcortical white matter tracts density evaluated.",
+        "CSF & Ventricular Volume: 25.0% of intracranial volume \u2014 Ventricular and sulcal fluid spaces assessed for age-appropriate prominence.",
+        "Predominant Tissue Classification: Gray Matter (BrainCNN Confidence: 82.3%) \u2014 PyTorch CNN 3-class patch classifier evaluated across 9 region(s).",
+        "Tissue Symmetry & Integrity: Bilateral hemispheric symmetry preserved without mass effect \u2014 No midline shift or focal parenchymal distortion detected."
+      ],
+      "xray_findings": [
+        "Chest X-ray spatial lung-field and deep CNN analysis completed. Cardiothoracic ratio (CTR): 0.36 [Normal]. Bilateral lung field optical symmetry: 89.3%. Costophrenic angles: Possible mild blunting. DenseNet Grad-CAM heatmap generated to visualize pulmonary aeration zones. Overall analysis confidence: 87.9%. AI-assisted clinical decision support.",
+        "Cardiothoracic Ratio (CTR): 0.36 (Normal <= 0.50) \u2014 Cardiac transverse dimension measured at 493px relative to thoracic width 2147px.",
+        "Bilateral Lung Field Opacity & Symmetry: Symmetry 89.3% (Left: 44.2%, Right: 49.5%) \u2014 Bilateral hemithorax optical density evaluated for focal consolidation or asymmetry.",
+        "Costophrenic Angles Clarity: Borderline Recess Blunting \u2014 Mild costophrenic sulcus blunting noted \u2014 correlate for minor pleural effusion",
+        "Pulmonary Vascular Markings: Normal branching pattern, no cephalization or hilar congestion \u2014 Central pulmonary vasculature shows normal caliber without interstitial edema pattern.",
+        "Deep CNN Focal Activation: DenseNet-121 Mean Activation: 0.302 \u2014 Deep convolutional feature maps evaluated for localized alveolar infiltrates."
+      ],
+      "ecg_findings": [
+        "12-Lead ECG waveform contour extraction and rhythm analysis completed. Estimated heart rate: 75 BPM [Normal]. Rhythm pattern: Irregular Rhythm / Arrhythmic Variation (Mean R-R: 800 ms, variation: 40.3%). QRS morphology: Normal narrow complex (86 ms). ST-segment: Isoelectric. Annotated rhythm trace with R-peak markers saved to clinical records. Confidence: 93.0%. Non-diagnostic decision support.",
+        "Estimated Heart Rate: 75 BPM (Normal sinus rate: 60-100 BPM) \u2014 Calculated from 12 detected R-wave depolarization peaks.",
+        "Rhythm Regularity: Irregular Rhythm / Arrhythmic Variation (R-R variation: 40.3%) \u2014 Peak-to-peak interval dispersion evaluated across rhythm strip.",
+        "Mean R-R Interval: 800 ms \u2014 Cardiac cycle interval measured between successive ventricular contractions.",
+        "QRS Complex Morphology: Narrow QRS complex duration (~86 ms, Normal < 120 ms) \u2014 Normal intraventricular conduction without broad bundle branch block pattern.",
+        "ST Segment Deviation: Isoelectric baseline preserved, no acute elevation/depression \u2014 Isoelectric baseline preserved; no acute ST-elevation or ST-depression pattern."
+      ],
+      "blood_report_abnormalities": [
+        "Blood report analysis completed. Extracted 4/16 parameters. 1 value(s) outside reference range. AI-assisted extraction \u2014 requires physician review.",
+        "Glucose (Random): 115.0 mg/dL \u2014 Reference: 70.0 - 140.0 mg/dL. Status: Normal.",
+        "HbA1c: 6.1 % \u2014 Reference: 4.0 - 5.7 %. Status: High.",
+        "Total Cholesterol: 164.0 mg/dL \u2014 Reference: 0.0 - 200.0 mg/dL. Status: Normal.",
+        "HDL Cholesterol: 81.0 mg/dL \u2014 Reference: 40.0 - 200.0 mg/dL. Status: Normal.",
+        "HbA1c: 6.1 % (Ref: 4.0 - 5.7 %) [High]"
+      ],
+      "previous_prescriptions": [
+        "2026-11-03: Levofloxacin, Metformin (Pneumonia and elevated  HbA1c)"
+      ],
+      "important_observations": [
+        "HbA1c: 6.1 % [Abnormal]",
+        "Rhythm Regularity: Irregular Rhythm / Arrhythmic Variation (R-R variation: 40.3%) [Abnormal]",
+        "HbA1c: 6.1 % [High]"
+      ],
+      "generated_at": "2026-11-18T19:51:39.492608"
+    }
+  ],
+  "notifications": [
+    {
+      "target_role": "doctor",
+      "title": "AI Analysis Complete",
+      "message": "Brain MRI analysis for Rajesh Kumar is ready for review.",
+      "time": "2 hours ago",
+      "read": true,
+      "type": "info",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10252c"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "title": "Flagged Report",
+      "message": "ECG analysis for Suresh Patel has been flagged \u2014 T-wave inversions detected.",
+      "time": "5 hours ago",
+      "read": true,
+      "type": "alert",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10252d"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "title": "Upcoming Appointment",
+      "message": "Follow-up with Amit Singh scheduled for Sep 8 at 2:00 PM.",
+      "time": "1 day ago",
+      "read": true,
+      "type": "info",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10252e"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "title": "Blood Test Results",
+      "message": "New blood panel results uploaded for Rajesh Kumar.",
+      "time": "1 day ago",
+      "read": true,
+      "type": "success",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e10252f"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "title": "Prescription Reminder",
+      "message": "Metformin dosage was increased to 1000mg for Rajesh Kumar.",
+      "time": "3 days ago",
+      "read": true,
+      "type": "warning",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102530"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "title": "Report Ready",
+      "message": "Your Brain MRI analysis is complete. Your doctor will review it shortly.",
+      "time": "2 hours ago",
+      "read": false,
+      "type": "info",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102531"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "title": "Upcoming Appointment",
+      "message": "You have a follow-up appointment with Dr. Priya Sharma on Sep 12 at 10:00 AM.",
+      "time": "1 day ago",
+      "read": false,
+      "type": "info",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102532"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "title": "Prescription Updated",
+      "message": "Your prescription has been updated. Please review new medications.",
+      "time": "3 days ago",
+      "read": true,
+      "type": "success",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102533"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae7c5574756d8096e1024ff",
+      "title": "Health Tip",
+      "message": "Remember to monitor your blood glucose levels daily.",
+      "time": "5 days ago",
+      "read": true,
+      "type": "info",
+      "_id": {
+        "$oid": "6ae7c55a4756d8096e102534"
+      }
+    },
+    {
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "patient_name": "Abhimanyu",
+      "target_role": "doctor",
+      "type": "new_appointment",
+      "title": "New Appointment Booked",
+      "message": "Abhimanyu booked a Consultation on 2026-11-04 at 10:00 AM.",
+      "read": true,
+      "created_at": "2026-11-01T23:08:44.994052",
+      "doctor_user_id": "6ae7c5f24756d8096e102535",
+      "_id": {
+        "$oid": "6ae7c67c4756d8096e10253a"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c6e0ab5c6590be5fd7f3",
+      "title": "Report Uploaded",
+      "message": "Your Brain MRI report 'Brain MRI - ad9180d51d8ffe97f7f8d3808092523e1b442a00f76634b6de4a2387344bf7e8' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-01 23:10",
+      "type": "info",
+      "read": true,
+      "created_at": "2026-11-01T23:10:24.310963",
+      "_id": {
+        "$oid": "6ae7c6e0ab5c6590be5fd7f5"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c6e0ab5c6590be5fd7f3",
+      "title": "New Report Uploaded",
+      "message": "Abhimanyu uploaded a new Brain MRI report: 'Brain MRI - ad9180d51d8ffe97f7f8d3808092523e1b442a00f76634b6de4a2387344bf7e8'.",
+      "time": "2026-11-01 23:10",
+      "type": "info",
+      "read": true,
+      "created_at": "2026-11-01T23:10:24.311334",
+      "_id": {
+        "$oid": "6ae7c6e0ab5c6590be5fd7f6"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c6e0ab5c6590be5fd7f3",
+      "title": "AI Analysis Complete: Brain MRI",
+      "message": "Abhimanyu's Brain MRI analysis completed. Confidence: 85.0%. No critical abnormalities detected.",
+      "time": "2026-11-01 23:10",
+      "type": "success",
+      "read": true,
+      "created_at": "2026-11-01T23:10:24.439190",
+      "_id": {
+        "$oid": "6ae7c6e0ab5c6590be5fd7f9"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c6e0ab5c6590be5fd7f3",
+      "title": "Report Analysis Complete: Brain MRI",
+      "message": "AI analysis for your Brain MRI is complete and ready for review.",
+      "time": "2026-11-01 23:10",
+      "type": "success",
+      "read": true,
+      "created_at": "2026-11-01T23:10:24.439237",
+      "_id": {
+        "$oid": "6ae7c6e0ab5c6590be5fd7fa"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c6f6ab5c6590be5fd7fb",
+      "title": "Report Uploaded",
+      "message": "Your X-ray report 'X-ray - bdc6c1811033b00810a4595e31403e_big_gallery' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-01 23:10",
+      "type": "info",
+      "read": true,
+      "created_at": "2026-11-01T23:10:46.578755",
+      "_id": {
+        "$oid": "6ae7c6f6ab5c6590be5fd7fd"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c6f6ab5c6590be5fd7fb",
+      "title": "New Report Uploaded",
+      "message": "Abhimanyu uploaded a new X-ray report: 'X-ray - bdc6c1811033b00810a4595e31403e_big_gallery'.",
+      "time": "2026-11-01 23:10",
+      "type": "info",
+      "read": true,
+      "created_at": "2026-11-01T23:10:46.578868",
+      "_id": {
+        "$oid": "6ae7c6f6ab5c6590be5fd7fe"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c6f6ab5c6590be5fd7fb",
+      "title": "Flagged: X-ray for Abhimanyu",
+      "message": "Abnormal findings detected in Abhimanyu's X-ray. Confidence: 86.8%. Requires physician review.",
+      "time": "2026-11-01 23:10",
+      "type": "alert",
+      "read": true,
+      "created_at": "2026-11-01T23:10:47.038642",
+      "_id": {
+        "$oid": "6ae7c6f7ab5c6590be5fd801"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c6f6ab5c6590be5fd7fb",
+      "title": "Report Analysis Complete: X-ray",
+      "message": "AI analysis for your X-ray is complete and ready for review.",
+      "time": "2026-11-01 23:10",
+      "type": "alert",
+      "read": true,
+      "created_at": "2026-11-01T23:10:47.038692",
+      "_id": {
+        "$oid": "6ae7c6f7ab5c6590be5fd802"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c713ab5c6590be5fd803",
+      "title": "Report Uploaded",
+      "message": "Your ECG report 'ECG - normal-sinus-rhythm-2' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-01 23:11",
+      "type": "info",
+      "read": true,
+      "created_at": "2026-11-01T23:11:15.264977",
+      "_id": {
+        "$oid": "6ae7c713ab5c6590be5fd805"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c713ab5c6590be5fd803",
+      "title": "New Report Uploaded",
+      "message": "Abhimanyu uploaded a new ECG report: 'ECG - normal-sinus-rhythm-2'.",
+      "time": "2026-11-01 23:11",
+      "type": "info",
+      "read": true,
+      "created_at": "2026-11-01T23:11:15.265085",
+      "_id": {
+        "$oid": "6ae7c713ab5c6590be5fd806"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c713ab5c6590be5fd803",
+      "title": "Flagged: ECG for Abhimanyu",
+      "message": "Abnormal findings detected in Abhimanyu's ECG. Confidence: 94.1%. Requires physician review.",
+      "time": "2026-11-01 23:11",
+      "type": "alert",
+      "read": true,
+      "created_at": "2026-11-01T23:11:15.807749",
+      "_id": {
+        "$oid": "6ae7c713ab5c6590be5fd809"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c713ab5c6590be5fd803",
+      "title": "Report Analysis Complete: ECG",
+      "message": "AI analysis for your ECG is complete and ready for review.",
+      "time": "2026-11-01 23:11",
+      "type": "alert",
+      "read": true,
+      "created_at": "2026-11-01T23:11:15.807799",
+      "_id": {
+        "$oid": "6ae7c713ab5c6590be5fd80a"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c72bab5c6590be5fd80b",
+      "title": "Report Uploaded",
+      "message": "Your Blood Test report 'Blood Test - B080 (1)' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-01 23:11",
+      "type": "info",
+      "read": true,
+      "created_at": "2026-11-01T23:11:39.448740",
+      "_id": {
+        "$oid": "6ae7c72bab5c6590be5fd80d"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c72bab5c6590be5fd80b",
+      "title": "New Report Uploaded",
+      "message": "Abhimanyu uploaded a new Blood Test report: 'Blood Test - B080 (1)'.",
+      "time": "2026-11-01 23:11",
+      "type": "info",
+      "read": true,
+      "created_at": "2026-11-01T23:11:39.448830",
+      "_id": {
+        "$oid": "6ae7c72bab5c6590be5fd80e"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c72bab5c6590be5fd80b",
+      "title": "AI Analysis Complete: Blood Test",
+      "message": "Abhimanyu's Blood Test analysis completed. Confidence: 26.2%. No critical abnormalities detected.",
+      "time": "2026-11-01 23:11",
+      "type": "success",
+      "read": true,
+      "created_at": "2026-11-01T23:11:39.610263",
+      "_id": {
+        "$oid": "6ae7c72bab5c6590be5fd812"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae7c6454756d8096e102538",
+      "report_id": "6ae7c72bab5c6590be5fd80b",
+      "title": "Report Analysis Complete: Blood Test",
+      "message": "AI analysis for your Blood Test is complete and ready for review.",
+      "time": "2026-11-01 23:11",
+      "type": "success",
+      "read": true,
+      "created_at": "2026-11-01T23:11:39.610310",
+      "_id": {
+        "$oid": "6ae7c72bab5c6590be5fd813"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "target_role": "patient",
+      "type": "appointment_scheduled",
+      "title": "Follow-up Consultation Scheduled",
+      "message": "Dr. Dr. Amit Kumar scheduled your follow-up for 2026-11-04.",
+      "read": true,
+      "created_at": "2026-11-01T23:12:34.080883",
+      "_id": {
+        "$oid": "6ae7c762ab5c6590be5fd816"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "target_role": "patient",
+      "type": "appointment_scheduled",
+      "title": "Follow-up Consultation Scheduled",
+      "message": "Dr. Dr. Amit Kumar scheduled your follow-up for 2026-11-04.",
+      "read": true,
+      "created_at": "2026-11-01T23:14:12.563563",
+      "_id": {
+        "$oid": "6ae7c7c4ab5c6590be5fd819"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "doctor_id": "6ae7c5f24756d8096e102536",
+      "target_role": "patient",
+      "type": "prescription_created",
+      "title": "New Prescription Issued",
+      "message": "Dr. Dr. Amit Kumar issued a prescription for fever (P250 Tablet).",
+      "read": true,
+      "created_at": "2026-11-01T23:28:45.797316",
+      "_id": {
+        "$oid": "6ae7cb2db96b6ea7fa4e6fa7"
+      }
+    },
+    {
+      "doctor_id": "6ae88da01a0cf01baafc1674",
+      "patient_id": "6ae88e5e1a0cf01baafc1676",
+      "patient_name": "Chandan Kumar",
+      "target_role": "doctor",
+      "type": "new_appointment",
+      "title": "New Appointment Booked",
+      "message": "Chandan Kumar booked a Consultation on 2026-11-09 at 11:30 AM.",
+      "read": true,
+      "created_at": "2026-11-02T13:22:30.346165",
+      "doctor_user_id": "6ae88da01a0cf01baafc1673",
+      "_id": {
+        "$oid": "6ae88e961a0cf01baafc1678"
+      }
+    },
+    {
+      "doctor_id": "6ae893aa9f23a0ea05cfab23",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "patient_name": "Rahul kumar",
+      "target_role": "doctor",
+      "type": "new_appointment",
+      "title": "New Appointment Booked",
+      "message": "Rahul kumar booked a Consultation on 2026-11-06 at 10:00 AM.",
+      "read": true,
+      "created_at": "2026-11-02T13:48:54.210416",
+      "doctor_user_id": "6ae893aa9f23a0ea05cfab22",
+      "_id": {
+        "$oid": "6ae894c6448ebf3172f7ec62"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90d1f975e5d0e900786ff",
+      "title": "Report Uploaded",
+      "message": "Your Brain MRI report 'Brain MRI - brain-tumour-glioblastoma-versus-metastasis-3' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-02 22:22",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-02T22:22:23.962174",
+      "_id": {
+        "$oid": "6ae90d1f975e5d0e90078701"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae893aa9f23a0ea05cfab23",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90d1f975e5d0e900786ff",
+      "title": "New Report Uploaded",
+      "message": "Rahul kumar uploaded a new Brain MRI report: 'Brain MRI - brain-tumour-glioblastoma-versus-metastasis-3'.",
+      "time": "2026-11-02 22:22",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-02T22:22:23.962372",
+      "_id": {
+        "$oid": "6ae90d1f975e5d0e90078702"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90d1f975e5d0e900786ff",
+      "title": "AI Analysis Complete: Brain MRI",
+      "message": "Rahul kumar's Brain MRI analysis completed. Confidence: 100.0%. No critical abnormalities detected.",
+      "time": "2026-11-02 22:22",
+      "type": "success",
+      "read": false,
+      "created_at": "2026-11-02T22:22:24.043360",
+      "_id": {
+        "$oid": "6ae90d20975e5d0e90078705"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90d1f975e5d0e900786ff",
+      "title": "Report Analysis Complete: Brain MRI",
+      "message": "AI analysis for your Brain MRI is complete and ready for review.",
+      "time": "2026-11-02 22:22",
+      "type": "success",
+      "read": false,
+      "created_at": "2026-11-02T22:22:24.043405",
+      "_id": {
+        "$oid": "6ae90d20975e5d0e90078706"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90d41975e5d0e90078707",
+      "title": "Report Uploaded",
+      "message": "Your X-ray report 'X-ray - clavicle-fracture-1-2' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-02 22:22",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-02T22:22:57.572123",
+      "_id": {
+        "$oid": "6ae90d41975e5d0e90078709"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae893aa9f23a0ea05cfab23",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90d41975e5d0e90078707",
+      "title": "New Report Uploaded",
+      "message": "Rahul kumar uploaded a new X-ray report: 'X-ray - clavicle-fracture-1-2'.",
+      "time": "2026-11-02 22:22",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-02T22:22:57.572222",
+      "_id": {
+        "$oid": "6ae90d41975e5d0e9007870a"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90d41975e5d0e90078707",
+      "title": "Flagged: X-ray for Rahul kumar",
+      "message": "Abnormal findings detected in Rahul kumar's X-ray. Confidence: 87.3%. Requires physician review.",
+      "time": "2026-11-02 22:22",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-02T22:22:58.608497",
+      "_id": {
+        "$oid": "6ae90d42975e5d0e9007870d"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90d41975e5d0e90078707",
+      "title": "Report Analysis Complete: X-ray",
+      "message": "AI analysis for your X-ray is complete and ready for review.",
+      "time": "2026-11-02 22:22",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-02T22:22:58.608545",
+      "_id": {
+        "$oid": "6ae90d42975e5d0e9007870e"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90e88975e5d0e9007870f",
+      "title": "Report Uploaded",
+      "message": "Your X-ray report 'X-ray - right-middle-lobe-pneumonia-2' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-02 22:28",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-02T22:28:24.910617",
+      "_id": {
+        "$oid": "6ae90e88975e5d0e90078711"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae893aa9f23a0ea05cfab23",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90e88975e5d0e9007870f",
+      "title": "New Report Uploaded",
+      "message": "Rahul kumar uploaded a new X-ray report: 'X-ray - right-middle-lobe-pneumonia-2'.",
+      "time": "2026-11-02 22:28",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-02T22:28:24.910720",
+      "_id": {
+        "$oid": "6ae90e88975e5d0e90078712"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90e88975e5d0e9007870f",
+      "title": "Flagged: X-ray for Rahul kumar",
+      "message": "Abnormal findings detected in Rahul kumar's X-ray. Confidence: 88.1%. Requires physician review.",
+      "time": "2026-11-02 22:28",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-02T22:28:25.661894",
+      "_id": {
+        "$oid": "6ae90e89975e5d0e90078715"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90e88975e5d0e9007870f",
+      "title": "Report Analysis Complete: X-ray",
+      "message": "AI analysis for your X-ray is complete and ready for review.",
+      "time": "2026-11-02 22:28",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-02T22:28:25.661943",
+      "_id": {
+        "$oid": "6ae90e89975e5d0e90078716"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90ed9975e5d0e90078717",
+      "title": "Report Uploaded",
+      "message": "Your ECG report 'ECG - Rhythm-Strip-LITFL-Atrial-Fibrillation' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-02 22:29",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-02T22:29:45.587054",
+      "_id": {
+        "$oid": "6ae90ed9975e5d0e90078719"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae893aa9f23a0ea05cfab23",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90ed9975e5d0e90078717",
+      "title": "New Report Uploaded",
+      "message": "Rahul kumar uploaded a new ECG report: 'ECG - Rhythm-Strip-LITFL-Atrial-Fibrillation'.",
+      "time": "2026-11-02 22:29",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-02T22:29:45.587304",
+      "_id": {
+        "$oid": "6ae90ed9975e5d0e9007871a"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90ed9975e5d0e90078717",
+      "title": "Flagged: ECG for Rahul kumar",
+      "message": "Abnormal findings detected in Rahul kumar's ECG. Confidence: 93.8%. Requires physician review.",
+      "time": "2026-11-02 22:29",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-02T22:29:46.121376",
+      "_id": {
+        "$oid": "6ae90eda975e5d0e9007871d"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90ed9975e5d0e90078717",
+      "title": "Report Analysis Complete: ECG",
+      "message": "AI analysis for your ECG is complete and ready for review.",
+      "time": "2026-11-02 22:29",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-02T22:29:46.121424",
+      "_id": {
+        "$oid": "6ae90eda975e5d0e9007871e"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90eff975e5d0e9007871f",
+      "title": "Report Uploaded",
+      "message": "Your Blood Test report 'Blood Test - DRPwS_sample_report' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-02 22:30",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-02T22:30:23.339970",
+      "_id": {
+        "$oid": "6ae90eff975e5d0e90078721"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae893aa9f23a0ea05cfab23",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90eff975e5d0e9007871f",
+      "title": "New Report Uploaded",
+      "message": "Rahul kumar uploaded a new Blood Test report: 'Blood Test - DRPwS_sample_report'.",
+      "time": "2026-11-02 22:30",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-02T22:30:23.340100",
+      "_id": {
+        "$oid": "6ae90eff975e5d0e90078722"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90eff975e5d0e9007871f",
+      "title": "Flagged: Blood Test for Rahul kumar",
+      "message": "Abnormal findings detected in Rahul kumar's Blood Test. Confidence: 45.0%. Requires physician review.",
+      "time": "2026-11-02 22:30",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-02T22:30:23.493154",
+      "_id": {
+        "$oid": "6ae90eff975e5d0e90078729"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "report_id": "6ae90eff975e5d0e9007871f",
+      "title": "Report Analysis Complete: Blood Test",
+      "message": "AI analysis for your Blood Test is complete and ready for review.",
+      "time": "2026-11-02 22:30",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-02T22:30:23.493200",
+      "_id": {
+        "$oid": "6ae90eff975e5d0e9007872a"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "doctor_id": "6ae893aa9f23a0ea05cfab23",
+      "target_role": "patient",
+      "type": "appointment_scheduled",
+      "title": "Follow-up Consultation Scheduled",
+      "message": "Dr. Dr. Mahesh Singh scheduled your follow-up for 2026-11-06.",
+      "read": false,
+      "created_at": "2026-11-02T22:37:16.746377",
+      "_id": {
+        "$oid": "6ae9109c975e5d0e9007872e"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae9613d6075d905311faf4f",
+      "title": "Report Uploaded",
+      "message": "Your Brain MRI report 'Brain MRI - 64bfa7678d418a898f3ac21e79a173_gallery' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-03 04:21",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-03T04:21:17.298096",
+      "_id": {
+        "$oid": "6ae9613d6075d905311faf51"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae9613d6075d905311faf4f",
+      "title": "New Report Uploaded",
+      "message": "Sumit Kumar uploaded a new Brain MRI report: 'Brain MRI - 64bfa7678d418a898f3ac21e79a173_gallery'.",
+      "time": "2026-11-03 04:21",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-03T04:21:17.298326",
+      "_id": {
+        "$oid": "6ae9613d6075d905311faf52"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae9613d6075d905311faf4f",
+      "title": "AI Analysis Complete: Brain MRI",
+      "message": "Sumit Kumar's Brain MRI analysis completed. Confidence: 82.3%. No critical abnormalities detected.",
+      "time": "2026-11-03 04:21",
+      "type": "success",
+      "read": false,
+      "created_at": "2026-11-03T04:21:17.425613",
+      "_id": {
+        "$oid": "6ae9613d6075d905311faf55"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae9613d6075d905311faf4f",
+      "title": "Report Analysis Complete: Brain MRI",
+      "message": "AI analysis for your Brain MRI is complete and ready for review.",
+      "time": "2026-11-03 04:21",
+      "type": "success",
+      "read": false,
+      "created_at": "2026-11-03T04:21:17.425664",
+      "_id": {
+        "$oid": "6ae9613d6075d905311faf56"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae9615a6075d905311faf57",
+      "title": "Report Uploaded",
+      "message": "Your X-ray report 'X-ray - right-middle-lobe-pneumonia' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-03 04:21",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-03T04:21:46.258563",
+      "_id": {
+        "$oid": "6ae9615a6075d905311faf59"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae9615a6075d905311faf57",
+      "title": "New Report Uploaded",
+      "message": "Sumit Kumar uploaded a new X-ray report: 'X-ray - right-middle-lobe-pneumonia'.",
+      "time": "2026-11-03 04:21",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-03T04:21:46.258678",
+      "_id": {
+        "$oid": "6ae9615a6075d905311faf5a"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae9615a6075d905311faf57",
+      "title": "Flagged: X-ray for Sumit Kumar",
+      "message": "Abnormal findings detected in Sumit Kumar's X-ray. Confidence: 87.9%. Requires physician review.",
+      "time": "2026-11-03 04:21",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-03T04:21:48.128482",
+      "_id": {
+        "$oid": "6ae9615c6075d905311faf5d"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae9615a6075d905311faf57",
+      "title": "Report Analysis Complete: X-ray",
+      "message": "AI analysis for your X-ray is complete and ready for review.",
+      "time": "2026-11-03 04:21",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-03T04:21:48.128532",
+      "_id": {
+        "$oid": "6ae9615c6075d905311faf5e"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae9617e6075d905311faf5f",
+      "title": "Report Uploaded",
+      "message": "Your ECG report 'ECG - ECG-showing-atrial-fibrillation-with-new-ST-elevation-in-the-inferior-leads' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-03 04:22",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-03T04:22:22.426499",
+      "_id": {
+        "$oid": "6ae9617e6075d905311faf61"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae9617e6075d905311faf5f",
+      "title": "New Report Uploaded",
+      "message": "Sumit Kumar uploaded a new ECG report: 'ECG - ECG-showing-atrial-fibrillation-with-new-ST-elevation-in-the-inferior-leads'.",
+      "time": "2026-11-03 04:22",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-03T04:22:22.426590",
+      "_id": {
+        "$oid": "6ae9617e6075d905311faf62"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae9617e6075d905311faf5f",
+      "title": "Flagged: ECG for Sumit Kumar",
+      "message": "Abnormal findings detected in Sumit Kumar's ECG. Confidence: 93.0%. Requires physician review.",
+      "time": "2026-11-03 04:22",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-03T04:22:22.816212",
+      "_id": {
+        "$oid": "6ae9617e6075d905311faf65"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae9617e6075d905311faf5f",
+      "title": "Report Analysis Complete: ECG",
+      "message": "AI analysis for your ECG is complete and ready for review.",
+      "time": "2026-11-03 04:22",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-03T04:22:22.816258",
+      "_id": {
+        "$oid": "6ae9617e6075d905311faf66"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae961b86075d905311faf67",
+      "title": "Report Uploaded",
+      "message": "Your Blood Test report 'Blood Test - DRPwS_sample_report' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-03 04:23",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-03T04:23:20.549725",
+      "_id": {
+        "$oid": "6ae961b86075d905311faf69"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae961b86075d905311faf67",
+      "title": "New Report Uploaded",
+      "message": "Sumit Kumar uploaded a new Blood Test report: 'Blood Test - DRPwS_sample_report'.",
+      "time": "2026-11-03 04:23",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-03T04:23:20.549812",
+      "_id": {
+        "$oid": "6ae961b86075d905311faf6a"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae961b86075d905311faf67",
+      "title": "Flagged: Blood Test for Sumit Kumar",
+      "message": "Abnormal findings detected in Sumit Kumar's Blood Test. Confidence: 45.0%. Requires physician review.",
+      "time": "2026-11-03 04:23",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-03T04:23:20.725267",
+      "_id": {
+        "$oid": "6ae961b86075d905311faf71"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae961b86075d905311faf67",
+      "title": "Report Analysis Complete: Blood Test",
+      "message": "AI analysis for your Blood Test is complete and ready for review.",
+      "time": "2026-11-03 04:23",
+      "type": "alert",
+      "read": false,
+      "created_at": "2026-11-03T04:23:20.725312",
+      "_id": {
+        "$oid": "6ae961b86075d905311faf72"
+      }
+    },
+    {
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "patient_id": "6ae961206075d905311faf4e",
+      "patient_name": "Sumit Kumar",
+      "target_role": "doctor",
+      "type": "new_appointment",
+      "title": "New Appointment Booked",
+      "message": "Sumit Kumar booked a Report Review on 2026-11-04 at 11:30 AM.",
+      "read": false,
+      "created_at": "2026-11-03T04:24:11.649870",
+      "doctor_user_id": "6ae960b76075d905311faf4b",
+      "_id": {
+        "$oid": "6ae961eb6075d905311faf74"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "target_role": "patient",
+      "type": "prescription_created",
+      "title": "New Prescription Issued",
+      "message": "Dr. Dr. Neha Sharma issued a prescription for Pneumonia and elevated  HbA1c (Levofloxacin, Metformin).",
+      "read": false,
+      "created_at": "2026-11-03T04:28:44.986747",
+      "_id": {
+        "$oid": "6ae962fc6075d905311faf77"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "target_role": "patient",
+      "type": "appointment_scheduled",
+      "title": "Follow-up Consultation Scheduled",
+      "message": "Dr. Dr. Neha Sharma scheduled your follow-up for 2026-11-04.",
+      "read": false,
+      "created_at": "2026-11-03T04:29:13.350745",
+      "_id": {
+        "$oid": "6ae963196075d905311faf7a"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae96b3e9b49016c38d00b62",
+      "title": "Report Uploaded",
+      "message": "Your Brain MRI report 'Brain MRI - 64bfa7678d418a898f3ac21e79a173_gallery' was uploaded successfully and queued for AI analysis.",
+      "time": "2026-11-03 05:03",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-03T05:03:58.054842",
+      "_id": {
+        "$oid": "6ae96b3e9b49016c38d00b64"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae96b3e9b49016c38d00b62",
+      "title": "New Report Uploaded",
+      "message": "Sumit Kumar uploaded a new Brain MRI report: 'Brain MRI - 64bfa7678d418a898f3ac21e79a173_gallery'.",
+      "time": "2026-11-03 05:03",
+      "type": "info",
+      "read": false,
+      "created_at": "2026-11-03T05:03:58.054974",
+      "_id": {
+        "$oid": "6ae96b3e9b49016c38d00b65"
+      }
+    },
+    {
+      "target_role": "doctor",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae96b3e9b49016c38d00b62",
+      "title": "AI Analysis Complete: Brain MRI",
+      "message": "Sumit Kumar's Brain MRI analysis completed. Confidence: 82.3%. No critical abnormalities detected.",
+      "time": "2026-11-03 05:03",
+      "type": "success",
+      "read": false,
+      "created_at": "2026-11-03T05:03:58.142366",
+      "_id": {
+        "$oid": "6ae96b3e9b49016c38d00b68"
+      }
+    },
+    {
+      "target_role": "patient",
+      "patient_id": "6ae961206075d905311faf4e",
+      "report_id": "6ae96b3e9b49016c38d00b62",
+      "title": "Report Analysis Complete: Brain MRI",
+      "message": "AI analysis for your Brain MRI is complete and ready for review.",
+      "time": "2026-11-03 05:03",
+      "type": "success",
+      "read": false,
+      "created_at": "2026-11-03T05:03:58.142393",
+      "_id": {
+        "$oid": "6ae96b3e9b49016c38d00b69"
+      }
+    },
+    {
+      "doctor_id": "6ae960b76075d905311faf4c",
+      "patient_id": "6ae96e9279c98d61f94c3c85",
+      "target_role": "doctor",
+      "type": "patient_added",
+      "title": "New Patient Onboarded",
+      "message": "Pradyot has been added to your care panel.",
+      "read": false,
+      "created_at": "2026-11-03T05:18:10.526563",
+      "_id": {
+        "$oid": "6ae96e9279c98d61f94c3c87"
+      }
+    }
+  ],
+  "copilot_sessions": [
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "message": "tell about her appointment",
+      "response": "No data available for this query.",
+      "sources": [],
+      "timestamp": {
+        "$date": "2026-11-02T12:44:15.888000"
+      },
+      "doctor_id": "6ae7c5f24756d8096e102535",
+      "_id": {
+        "$oid": "6ae8859fd69d3871f2d106df"
+      }
+    },
+    {
+      "patient_id": "6ae7c6454756d8096e102538",
+      "message": "health history",
+      "response": "The patient, Abhimanyu, is a 40-year-old male with no active conditions recorded.\n\n**Allergies:**\n*   **Drug:** Paracetamol\n*   **Environmental/Food:** Dust\n\n**Medical History Timeline (since 2026-11-01):**\n*   **2026-11-01:** Brain MRI, X-ray, ECG, and Blood Test uploaded and AI analysis completed.\n*   **2026-11-01:** Prescribed P250 Tablet (250 mg once daily for 4 days) for fever by Dr. Amit Kumar.\n\n**Recent Lab Values:**\n*   **HbA1c:** 5.0 % (Normal)\n\n**Recent Vital Signs (2026-11-01 23:14 UTC):**\n*   **Blood Pressure:** 130/90 mmHg\n*   **Resting Heart Rate:** 77 bpm\n*   **Oxygen Saturation (SpO2):** 94.0%\n*   **Blood Glucose:** 100.2 mg/dL\n*   **Body Temperature:** 99.6 \u00b0F\n*   **Weight:** 70.0 kg (BMI: 23.5)\n\n**AI Analysis Findings:**\n*   **Blood Test:** HbA1c 5.0% (Normal).\n*   **ECG:** Estimated Heart Rate 78 BPM (Normal), Mild Sinus Arrhythmia (Borderline), Normal QRS complex, Isoelectric ST segment.\n*   **X-ray:** Cardiothoracic Ratio 0.36 (Normal), Bilateral Lung Field Opacity & Symmetry 84.1% (Borderline), Borderline Recess Blunting of Costophrenic Angles.\n*   **Brain MRI:** Normal distribution of Gray Matter (45.0%), White Matter (29.8%), and CSF (25.2%). Bilateral hemispheric symmetry preserved.",
+      "sources": [],
+      "timestamp": {
+        "$date": "2026-11-02T12:44:29.975000"
+      },
+      "doctor_id": "6ae7c5f24756d8096e102535",
+      "_id": {
+        "$oid": "6ae885add69d3871f2d106e0"
+      }
+    },
+    {
+      "patient_id": "6ae893e79f23a0ea05cfab25",
+      "message": "Summarize this patient's reports.",
+      "response": "This 19-year-old male patient has a blood pressure of 120/80 mmHg, resting heart rate of 72 bpm, SpO2 of 98.0%, blood glucose of 100.0 mg/dL, and temperature of 98.6 \u00b0F. His weight is 70.0 kg with a BMI of 23.5. He has no documented drug, environmental, or food allergies.\n\nBlood test analysis shows a high HbA1c of 6.1% (reference: 4.0 - 5.7%). Glucose (Random), Total Cholesterol, and HDL Cholesterol are within normal limits.\n\nECG analysis indicates an estimated heart rate of 87 BPM, but an irregular rhythm/arrhythmic variation (R-R variation: 24.3%). QRS complex morphology and ST segment deviation are normal.\n\nChest X-ray analyses show normal cardiothoracic ratios (0.42 and 0.36) and normal pulmonary vascular markings. Both analyses note borderline costophrenic recess blunting.\n\nBrain MRI analysis shows normal distribution of Gray Matter (46.0%), White Matter (28.6%), and CSF (25.4%), with preserved bilateral hemispheric symmetry.",
+      "sources": [
+        {
+          "source_title": "Blood Test Parameters",
+          "document_type": "Curated Educational Reference",
+          "content_snippet": "# Common Blood Test Parameters \u2014 Clinical Reference\n\n**Document Type:** Curated Educational Reference\n**Source:** Compiled from standard clinical pathology references\n\n---\n\n## Complete Blood Count (CB"
+        },
+        {
+          "source_title": "Clinical Guidelines",
+          "document_type": "Curated Educational Reference",
+          "content_snippet": "e Impairment\n- Associated with cerebral small vessel disease on MRI\n- Risk factors: hypertension, diabetes, smoking\n- Management focuses on vascular risk factor control\n- Cholinesterase inhibitors (Do"
+        },
+        {
+          "source_title": "Brain Mri Guide",
+          "document_type": "Curated Educational Reference",
+          "content_snippet": "# Brain MRI \u2014 Clinical Interpretation Guide\n\n**Document Type:** Curated Educational Reference\n**Source:** Compiled from standard radiology and neurology textbooks\n\n---\n\n## Normal Brain MRI Anatomy\n\nA "
+        },
+        {
+          "source_title": "Clinical Guidelines",
+          "document_type": "Curated Educational Reference",
+          "content_snippet": "Kidney Disease\n\n### Classification (Based on eGFR)\n- Stage 1: eGFR 90 or above, kidney damage present\n- Stage 2: eGFR 60\u201389, mild decrease\n- Stage 3a: eGFR 45\u201359, mild-moderate decrease\n- Stage 3b: eG"
+        }
+      ],
+      "timestamp": {
+        "$date": "2026-11-02T22:37:49.156000"
+      },
+      "doctor_id": "6ae893aa9f23a0ea05cfab22",
+      "_id": {
+        "$oid": "6ae910bd975e5d0e9007872f"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "message": "Summarize this patient's reports.",
+      "response": "The patient, Sumit Kumar, is a 23-year-old male with pre-diabetes.\n\n**Vital Signs:** BP 120/80 mmHg, HR 72 bpm, SpO2 98.0%, Glucose 100.0 mg/dL, Temp 98.6 \u00b0F, Weight 70.0 kg (BMI 23.5).\n**Allergies:** Penicillin, dust.\n\n**AI Analysis Results:**\n*   **Brain MRI:** Normal findings, with Gray Matter 45.8%, White Matter 29.2%, and CSF 25.0%. Predominant tissue is Gray Matter.\n*   **Blood Test:** HbA1c is high at 6.1% (Reference: 4.0 - 5.7%). Random Glucose, Total Cholesterol, and HDL Cholesterol are within normal limits.\n*   **ECG:** Estimated Heart Rate 75 BPM (Normal). Rhythm is Irregular / Arrhythmic Variation (R-R variation: 40.3%). QRS complex and ST segment are normal.\n*   **X-ray:** Cardiothoracic ratio is normal (0.36). Bilateral lung field symmetry is 89.3% (Normal). Borderline costophrenic angle blunting is noted.\n\n**Prescriptions:**\n*   Levofloxacin 250 mg once daily for 5 days for Pneumonia.\n*   Metformin 50 mg twice daily for 30 days for elevated HbA1c.",
+      "sources": [
+        {
+          "source_title": "Blood Test Parameters",
+          "document_type": "Curated Educational Reference",
+          "content_snippet": "# Common Blood Test Parameters \u2014 Clinical Reference\n\n**Document Type:** Curated Educational Reference\n**Source:** Compiled from standard clinical pathology references\n\n---\n\n## Complete Blood Count (CB"
+        },
+        {
+          "source_title": "Clinical Guidelines",
+          "document_type": "Curated Educational Reference",
+          "content_snippet": "e Impairment\n- Associated with cerebral small vessel disease on MRI\n- Risk factors: hypertension, diabetes, smoking\n- Management focuses on vascular risk factor control\n- Cholinesterase inhibitors (Do"
+        },
+        {
+          "source_title": "Brain Mri Guide",
+          "document_type": "Curated Educational Reference",
+          "content_snippet": "# Brain MRI \u2014 Clinical Interpretation Guide\n\n**Document Type:** Curated Educational Reference\n**Source:** Compiled from standard radiology and neurology textbooks\n\n---\n\n## Normal Brain MRI Anatomy\n\nA "
+        },
+        {
+          "source_title": "Clinical Guidelines",
+          "document_type": "Curated Educational Reference",
+          "content_snippet": "Kidney Disease\n\n### Classification (Based on eGFR)\n- Stage 1: eGFR 90 or above, kidney damage present\n- Stage 2: eGFR 60\u201389, mild decrease\n- Stage 3a: eGFR 45\u201359, mild-moderate decrease\n- Stage 3b: eG"
+        }
+      ],
+      "timestamp": {
+        "$date": "2026-11-03T05:48:54.936000"
+      },
+      "doctor_id": "6ae960b76075d905311faf4b",
+      "_id": {
+        "$oid": "6ae975c61e99fe66948e633d"
+      }
+    },
+    {
+      "patient_id": "6ae961206075d905311faf4e",
+      "message": "Explain the abnormal blood values.",
+      "response": "The patient's HbA1c is 6.1%, which is high (reference range: 4.0 - 5.7%). All other blood values (Glucose (Random), Total Cholesterol, HDL Cholesterol) are within normal limits.",
+      "sources": [
+        {
+          "source_title": "Blood Test Parameters",
+          "document_type": "Curated Educational Reference",
+          "content_snippet": "# Common Blood Test Parameters \u2014 Clinical Reference\n\n**Document Type:** Curated Educational Reference\n**Source:** Compiled from standard clinical pathology references\n\n---\n\n## Complete Blood Count (CB"
+        },
+        {
+          "source_title": "Blood Test Parameters",
+          "document_type": "Curated Educational Reference",
+          "content_snippet": ": 136\u2013145 mEq/L\n- **Potassium**: 3.5\u20135.0 mEq/L\n- **Chloride**: 98\u2013106 mEq/L\n- **Calcium**: 8.5\u201310.5 mg/dL\n- **Magnesium**: 1.7\u20132.2 mg/dL\n\nPotassium imbalances can cause cardiac arrhythmias. Hyperkalem"
+        },
+        {
+          "source_title": "Blood Test Parameters",
+          "document_type": "Curated Educational Reference",
+          "content_snippet": "- Greater than 90 mL/min: Normal\n  - 60\u201389 mL/min: Stage 2 CKD (mildly decreased)\n  - 45\u201359 mL/min: Stage 3a CKD (mildly to moderately decreased)\n  - 30\u201344 mL/min: Stage 3b CKD (moderately to severely"
+        },
+        {
+          "source_title": "Ecg Basics",
+          "document_type": "Curated Educational Reference",
+          "content_snippet": "LVH)\n\nVoltage criteria for LVH include:\n- Sokolow-Lyon: S in V1 + R in V5 or V6 greater than 35 mm\n- Cornell: R in aVL + S in V3 greater than 28 mm (males) or 20 mm (females)\n\nLVH is commonly seen in:"
+        }
+      ],
+      "timestamp": {
+        "$date": "2026-11-03T05:49:10.518000"
+      },
+      "doctor_id": "6ae960b76075d905311faf4b",
+      "_id": {
+        "$oid": "6ae975d61e99fe66948e633e"
+      }
+    }
+  ]
+}
